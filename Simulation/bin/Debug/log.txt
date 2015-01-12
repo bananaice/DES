@@ -1,0 +1,13 @@
+19/11/2014 11:23:29 AM 785Now time is :23:30
+19/11/2014 11:23:29 AM 788 C:\11.MyResearch\AUG2014\MyDES_0711\MyDES_0511\MyDES_0711-2\MyDES\DES\Simulation\bin\Debug\Client\Test.zip W CNN 0 0 Enqued. Arrival time is : 11:23:29:788
+
+19/11/2014 11:23:33 AM 179 C:\11.MyResearch\AUG2014\MyDES_0711\MyDES_0511\MyDES_0711-2\MyDES\DES\Simulation\bin\Debug\Client\Test.zip W CNN 0 0 Dequed. Arrival time is : 11:23:33:179
+
+19/11/2014 11:23:33 AM 181 C:\11.MyResearch\AUG2014\MyDES_0711\MyDES_0511\MyDES_0711-2\MyDES\DES\Simulation\bin\Debug\Client\Test.zip W NNC 0 0 Enqued. Arrival time is : 11:23:33:181
+
+19/11/2014 11:23:33 AM 182 C:\11.MyResearch\AUG2014\MyDES_0711\MyDES_0511\MyDES_0711-2\MyDES\DES\Simulation\bin\Debug\Client\Test.zip W NNC 0 0 Dequed. Arrival time is : 11:23:33:182
+
+19/11/2014 11:23:34 AM 956 C:\11.MyResearch\AUG2014\MyDES_0711\MyDES_0511\MyDES_0711-2\MyDES\DES\Simulation\bin\Debug\Client\Test.zip W CDN 0 0 Enqued. Arrival time is : 11:23:34:956
+
+19/11/2014 11:23:34 AM 957 C:\11.MyResearch\AUG2014\MyDES_0711\MyDES_0511\MyDES_0711-2\MyDES\DES\Simulation\bin\Debug\Client\Test.zip W CDN 0 0 Dequed. Arrival time is : 11:23:34:957
+

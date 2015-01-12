@@ -1,0 +1,3 @@
+9/01/2015 2:55:51 PM 666#1420775751.666#2 hash files are read.
+9/01/2015 2:55:51 PM 668#1420775751.668#Hash value container generated. 158853
+9/01/2015 2:59:48 PM 225#1420775988.225#Number of no dup chunks found in c:\des\dataset0901_chunks2\ is:158853
