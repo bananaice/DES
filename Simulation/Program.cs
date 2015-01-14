@@ -14,9 +14,9 @@ namespace Simulation
         {
             QueueProcess qp = new QueueProcess(); //Assign value for queue
 
-            LogService.LogService ls = new LogService.LogService();
+            
             LogService.LogService.ClearLog();
-            //qp.QueueEvent += RefreshRichTextBox;
+           
             string filepath = System.Environment.CurrentDirectory + "\\DES.txt";
             if (filepath != null)
             {
@@ -43,9 +43,9 @@ namespace Simulation
                     //LogService.LogService.WriteLog("Now time is :" + sch.Minute.ToString() + ":" + sch.Second.ToString());
 
 
-                    string taskpath = System.Environment.CurrentDirectory + "\\Client\\" + arr[0];
+                    string taskpath = string.Empty;
 
-                    string taskdir = System.Environment.CurrentDirectory + "\\Client\\";
+                    string taskdir = args[0];
                     DirectoryInfo d = new DirectoryInfo(taskdir);
 
                     FileInfo[] allFile = d.GetFiles();

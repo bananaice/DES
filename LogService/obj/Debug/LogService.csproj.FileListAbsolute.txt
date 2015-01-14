@@ -12,8 +12,15 @@ G:\DES\LogService\bin\Debug\LogService.pdb
 G:\DES\LogService\obj\Debug\LogService.dll
 G:\DES\LogService\obj\Debug\LogService.pdb
 G:\DES\LogService\obj\Debug\LogService.csprojResolveAssemblyReference.cache
+D:\DES\DES\LogService\bin\Debug\LogService.dll
+D:\DES\DES\LogService\bin\Debug\LogService.pdb
+D:\DES\DES\LogService\obj\Debug\LogService.dll
+D:\DES\DES\LogService\obj\Debug\LogService.pdb
 D:\DES\LogService\bin\Debug\LogService.dll
 D:\DES\LogService\bin\Debug\LogService.pdb
 D:\DES\LogService\obj\Debug\LogService.dll
 D:\DES\LogService\obj\Debug\LogService.pdb
-D:\DES\LogService\obj\Debug\LogService.csprojResolveAssemblyReference.cache
+C:\DES\LogService\bin\Debug\LogService.dll
+C:\DES\LogService\bin\Debug\LogService.pdb
+C:\DES\LogService\obj\Debug\LogService.dll
+C:\DES\LogService\obj\Debug\LogService.pdb

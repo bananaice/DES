@@ -84,7 +84,7 @@ namespace Simulation
                 return;
             }
 
-            if (lst.Count != numofreplicas)
+            if (lst.Count != numofreplicas + 1)
             {
                 string logstr = string.Empty;
                 logstr += "Name node does not return the correct number of data node lists.";
@@ -96,15 +96,17 @@ namespace Simulation
             Dictionary<uint, uint> dc_primary = lst[0];
             Dictionary<uint, uint> dc_secondary = lst[1];
             Dictionary<uint, uint> dc_tertiary = lst[2];
+            Dictionary<uint, uint> dc_dup = lst[3];
 
             //Set up the pipeline for each chunk and store the pipeline info into an array
-            int[] pipeline = new int[numofreplicas];
+            int[] pipeline = new int[numofreplicas + 1];
 
             for (uint cnt = 0; cnt < dc_primary.Values.Count; cnt++)
             {
                 pipeline[0] = (int)dc_primary[cnt];
                 pipeline[1] = (int)dc_secondary[cnt];
                 pipeline[2] = (int)dc_tertiary[cnt];
+                pipeline[3] = (int)dc_dup[cnt];
                 //Operation / stage / source / obj / order of the chunk / node list(pipeline) 
                 Task task = new Task("W", "RIO", source, null, cnt, pipeline);
                 qp.Enque(task);

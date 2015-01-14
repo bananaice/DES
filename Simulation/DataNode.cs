@@ -44,7 +44,7 @@ namespace Simulation
             Thread th = new Thread(new ThreadStart(MonitorRequest));
             th.Start();
 
-            LogService.LogService.WriteDebug(str);
+            //LogService.LogService.WriteDebug(str);
         }
 
         public string Homepath
@@ -99,21 +99,23 @@ namespace Simulation
            {
                datanode_queue.Enqueue(dnpar);
 
-               string logstr = string.Empty;
-               logstr += "RIO"; //2 event type
-               logstr += "#";
-               logstr += "DNEQ"; // 3 event stage  DNEQ = datanode enqued
-               logstr += "#";
-               logstr += "Enqued to data node: " + this.nodeID.ToString() ; //4 text
-               logstr += "#";
-               logstr += srcpath + "%" + ReplicaID.ToString() + "%" + order.ToString(); //5 task ID - file name + replica ID + chunkID
-               logstr += "#";
-               logstr += order.ToString(); //6 chunk ID
-               logstr += "#";
-               logstr += nodeID.ToString(); //7 data node ID
-               LogService.LogService.WriteLog(logstr);
+              
            }
-            
+
+
+           string logstr = string.Empty;
+           logstr += "RIO"; //2 event type
+           logstr += "#";
+           logstr += "DNEQ"; // 3 event stage  DNEQ = datanode enqued
+           logstr += "#";
+           logstr += "Enqued to data node: " + this.nodeID.ToString(); //4 text
+           logstr += "#";
+           logstr += srcpath + "%" + ReplicaID.ToString() + "%" + order.ToString(); //5 task ID - file name + replica ID + chunkID
+           logstr += "#";
+           logstr += order.ToString(); //6 chunk ID
+           logstr += "#";
+           logstr += nodeID.ToString(); //7 data node ID
+           LogService.LogService.WriteLog(logstr);
             //Done after enque. Let the queue reading process determine when to operate a real write via peeking or dequing. 
             /*
             AsyncDelegate dlgt = new AsyncDelegate(this.RealWriteFile);
@@ -156,7 +158,7 @@ namespace Simulation
                     while (ar.IsCompleted == false)
                     {
                         Thread.Sleep(1); //Wait
-                        LogService.LogService.WriteDebug("Waiting for the thread to complete");
+                        //LogService.LogService.WriteDebug("Waiting for the thread to complete");
                     }
                     bool ret = dlgt.EndInvoke(ar);
                     if (!ret)
@@ -192,6 +194,7 @@ namespace Simulation
             bool bACKOnly = false;
             bool bOutgoingACK = false;
             bool bDiscontinue = false;
+            bool bFlagOnly = false;
 
             FileStream fsRead = null;
             FileStream fsWrite = null;
@@ -227,7 +230,7 @@ namespace Simulation
                 }
                 else
                 {
-                    LogService.LogService.WriteDebug("Data node queue is empty !");
+                    //LogService.LogService.WriteDebug("Data node queue is empty !");
                     return false;
                 }
 
@@ -263,12 +266,20 @@ namespace Simulation
                     int_nodenum = passed_pipeline[1]; //Set to the secondary node
                     bOutgoingACK = false;
                     outgoing_replicaID = 1;
+                    if (passed_pipeline[3] == 1)
+                    {
+                        bFlagOnly = true;
+                    }
                 }
                 else if (replicaID == 1 && bACKOnly == false)
                 {
                     int_nodenum = passed_pipeline[2]; ; //set to the tertiary node
                     bOutgoingACK = false;
                     outgoing_replicaID = 2;
+                    if (passed_pipeline[3] == 1)
+                    {
+                        bFlagOnly = true;
+                    }
                 }
                 else if (replicaID == 2 && bACKOnly == false)
                 {
@@ -290,21 +301,7 @@ namespace Simulation
 
                     //Currently do nothing and just record the log record
                     //LogService.LogService.WriteLog("ACK received for : " + order.ToString() + " of" + source);
-                    /*
-                    string logstr = string.Empty;
-                    logstr += "RIO"; //2 event type
-                    logstr += "#";
-                    logstr += "FN"; // 3 event stage
-                    logstr += "#";
-                    logstr += "ACK received for : " + order.ToString() + " of " + source; //4 text
-                    logstr += "#";
-                    logstr += source + "%" + replicaID.ToString() + "%" + order.ToString(); //5 task ID - file name + replica ID + chunkID
-                    logstr += "#";
-                    logstr += chunkid.ToString(); //6 chunk ID
-                    logstr += "#";
-                    logstr += nodeID.ToString(); //7 data node ID
-                    LogService.LogService.WriteLog(logstr);
-                     */
+                    
                     
                     bDiscontinue = true;
                 }
@@ -346,15 +343,22 @@ namespace Simulation
                 
                 //64KB -> Latency of 2ms
                 //When the data is doubled, make the latency x1.5
-                
-                
-                int chunksize = Int32.Parse(ConfigurationManager.AppSettings["filesize"]);
-                int times = chunksize / 65536;
-                double lat_times = times * 0.75; //x1.5 for every doubled size
-                const int unit_lat = 2;
-                int act_lat = (int)(unit_lat * lat_times);
 
-                Thread.Sleep(act_lat);
+                if (!bFlagOnly)  // Request only then do not write.
+                {
+
+                    int chunksize = Int32.Parse(ConfigurationManager.AppSettings["filesize"]);
+                    int times = chunksize / 65536;
+                    double lat_times = times * 0.75; //x1.5 for every doubled size
+                    const int unit_lat = 2;
+                    int act_lat = (int)(unit_lat * lat_times);
+
+                    Thread.Sleep(act_lat);
+                }
+                else
+                { 
+                    //Reference count for this hash value...
+                }
 
                 //After SSD writing is completed
                 string logstr = string.Empty;

@@ -28,7 +28,7 @@ namespace PreProcessor
             string log_time_identifier = "#";
 
 
-            LogService.LogService ls = new LogService.LogService();
+            //LogService.LogService ls = new LogService.LogService();
             LogService.LogService.ClearLog();
             
             if (args[0] == "copy")  //Copy all files in sub directories to one directory recursively. If names conflict, then overwrite the existing ones.

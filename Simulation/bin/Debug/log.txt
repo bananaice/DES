@@ -1,13 +1,889 @@
-19/11/2014 11:23:29 AM 785Now time is :23:30
-19/11/2014 11:23:29 AM 788 C:\11.MyResearch\AUG2014\MyDES_0711\MyDES_0511\MyDES_0711-2\MyDES\DES\Simulation\bin\Debug\Client\Test.zip W CNN 0 0 Enqued. Arrival time is : 11:23:29:788
-
-19/11/2014 11:23:33 AM 179 C:\11.MyResearch\AUG2014\MyDES_0711\MyDES_0511\MyDES_0711-2\MyDES\DES\Simulation\bin\Debug\Client\Test.zip W CNN 0 0 Dequed. Arrival time is : 11:23:33:179
-
-19/11/2014 11:23:33 AM 181 C:\11.MyResearch\AUG2014\MyDES_0711\MyDES_0511\MyDES_0711-2\MyDES\DES\Simulation\bin\Debug\Client\Test.zip W NNC 0 0 Enqued. Arrival time is : 11:23:33:181
-
-19/11/2014 11:23:33 AM 182 C:\11.MyResearch\AUG2014\MyDES_0711\MyDES_0511\MyDES_0711-2\MyDES\DES\Simulation\bin\Debug\Client\Test.zip W NNC 0 0 Dequed. Arrival time is : 11:23:33:182
-
-19/11/2014 11:23:34 AM 956 C:\11.MyResearch\AUG2014\MyDES_0711\MyDES_0511\MyDES_0711-2\MyDES\DES\Simulation\bin\Debug\Client\Test.zip W CDN 0 0 Enqued. Arrival time is : 11:23:34:956
-
-19/11/2014 11:23:34 AM 957 C:\11.MyResearch\AUG2014\MyDES_0711\MyDES_0511\MyDES_0711-2\MyDES\DES\Simulation\bin\Debug\Client\Test.zip W CDN 0 0 Dequed. Arrival time is : 11:23:34:957
-
+12/01/2015 5:30:14 PM 230#1421044214.23#CNN#EN#No text#c:\DES_files\Client\03-11-2007-Arsenal v Manchester United-Manuel Almunia.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 230#1421044214.23#CNN#EN#No text#c:\DES_files\Client\05-04-2008-Arsenal v Liverpool-Martin Skrtel.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 230#1421044214.23#CNN#EN#No text#c:\DES_files\Client\10-01-2009-Arsenal v Bolton Wanderers-Dan Shittu.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 230#1421044214.23#CNN#EN#No text#c:\DES_files\Client\11_CloudBenchmarking.pdf0%0%0#0#0
+12/01/2015 5:30:14 PM 230#1421044214.23#CNN#EN#No text#c:\DES_files\Client\1398534786jtun_emt64nav2k8en140423003.m250%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\1403978587jtun_emt64nav2k8en140626008.m250%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\1406399121jtun_emt64nav2k8en140724017.m250%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\1412613653jtun_emt64nav2k8en141002018.m250%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\1414652875jtun_emt64nav2k8en141029001.m250%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\15-11-2008-Arsenal v Aston Villa-Martin Laursen.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\15-11-2008-Arsenal v Aston Villa-Theo Walcott.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\17677d.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\1767fd.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\19-04-2008-Arsenal v Reading-Alexander Hleb.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\19-04-2008-Arsenal v Reading-Jimmy Kebe.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\1Password 2012-04-26 120429.agilekeychain_zip0%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\1Password 2012-05-08 115633.agilekeychain_zip0%0%0#0#0
+12/01/2015 5:30:14 PM 246#1421044214.246#CNN#EN#No text#c:\DES_files\Client\24-11-2007-Arsenal v Wigan Athletic- Denilson.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\24-11-2007-Arsenal v Wigan Athletic-Emmerson Boyce.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\29-12-2007-Everton v Arsenal-Tim Howard.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\A3DLIBS.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\abean.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\AccLR.cab0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\Adobe3DAndVideoServer.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\AdobeHeitiStd-Regular.otf0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\AdobePDFMakerX.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\aflamingo.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\AGM.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\amd64_microsoft-windows-d2d_31bf3856ad364e35_7.1.7601.18327_none_f72b7ed6fd7cb38b_d2d1.dll_ef77984b0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\ara131.lex0%0%0#0#0
+12/01/2015 5:30:14 PM 261#1421044214.261#CNN#EN#No text#c:\DES_files\Client\arsenal_aston_villa_highlights_1_3.mp40%0%0#0#0
+12/01/2015 5:30:14 PM 277#1421044214.277#CNN#EN#No text#c:\DES_files\Client\Artists' Brushes.tpl0%0%0#0#0
+12/01/2015 5:30:14 PM 277#1421044214.277#CNN#EN#No text#c:\DES_files\Client\atidxx32.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 277#1421044214.277#CNN#EN#No text#c:\DES_files\Client\clbltfnn8.rtl0%0%0#0#0
+12/01/2015 5:30:14 PM 277#1421044214.277#CNN#EN#No text#c:\DES_files\Client\COHCOL.wlt0%0%0#0#0
+12/01/2015 5:30:14 PM 277#1421044214.277#CNN#EN#No text#c:\DES_files\Client\com.ibm.icu_4.4.2.v20110823.jar0%0%0#0#0
+12/01/2015 5:30:14 PM 277#1421044214.277#CNN#EN#No text#c:\DES_files\Client\Computational Geometry - Algorithms and Applications, 3rd Ed.pdf0%0%0#0#0
+12/01/2015 5:30:14 PM 277#1421044214.277#CNN#EN#No text#c:\DES_files\Client\CoolType.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 277#1421044214.277#CNN#EN#No text#c:\DES_files\Client\crf_experiment_results_2013-11-14-09-29-36.json0%0%0#0#0
+12/01/2015 5:30:14 PM 277#1421044214.277#CNN#EN#No text#c:\DES_files\Client\d6158.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 277#1421044214.277#CNN#EN#No text#c:\DES_files\Client\derby.jar0%0%0#0#0
+12/01/2015 5:30:14 PM 277#1421044214.277#CNN#EN#No text#c:\DES_files\Client\DynamicDocuments.rpln0%0%0#0#0
+12/01/2015 5:30:14 PM 308#1421044214.308#CNN#EN#No text#c:\DES_files\Client\ehres.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 308#1421044214.308#CNN#EN#No text#c:\DES_files\Client\est133.lex0%0%0#0#0
+12/01/2015 5:30:14 PM 308#1421044214.308#CNN#EN#No text#c:\DES_files\Client\F12.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 308#1421044214.308#CNN#EN#No text#c:\DES_files\Client\f71340f.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 308#1421044214.308#CNN#EN#No text#c:\DES_files\Client\FontCache-S-1-5-21-2754216863-145331751-2442532276-1000-12288.dat0%0%0#0#0
+12/01/2015 5:30:14 PM 308#1421044214.308#CNN#EN#No text#c:\DES_files\Client\gameux.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 324#1421044214.324#CNN#EN#No text#c:\DES_files\Client\gcrc_v.idx0%0%0#0#0
+12/01/2015 5:30:14 PM 324#1421044214.324#CNN#EN#No text#c:\DES_files\Client\GdiPlus.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 324#1421044214.324#CNN#EN#No text#c:\DES_files\Client\HDRMergeUI.8BF0%0%0#0#0
+12/01/2015 5:30:14 PM 324#1421044214.324#CNN#EN#No text#c:\DES_files\Client\HPFIGLHN.DLL0%0%0#0#0
+12/01/2015 5:30:14 PM 324#1421044214.324#CNN#EN#No text#c:\DES_files\Client\HPVIMG50.DLL0%0%0#0#0
+12/01/2015 5:30:14 PM 324#1421044214.324#CNN#EN#No text#c:\DES_files\Client\iclsClientInstaller_x64.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 324#1421044214.324#CNN#EN#No text#c:\DES_files\Client\icudt40.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 324#1421044214.324#CNN#EN#No text#c:\DES_files\Client\iertutil.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 324#1421044214.324#CNN#EN#No text#c:\DES_files\Client\ig75icd32.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 324#1421044214.324#CNN#EN#No text#c:\DES_files\Client\igdbcl32.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 339#1421044214.339#CNN#EN#No text#c:\DES_files\Client\igfxcmjit64.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 339#1421044214.339#CNN#EN#No text#c:\DES_files\Client\imkrhjd.lex0%0%0#0#0
+12/01/2015 5:30:14 PM 339#1421044214.339#CNN#EN#No text#c:\DES_files\Client\JDFL20.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 339#1421044214.339#CNN#EN#No text#c:\DES_files\Client\jfxrt.jar0%0%0#0#0
+12/01/2015 5:30:14 PM 339#1421044214.339#CNN#EN#No text#c:\DES_files\Client\Journal.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 339#1421044214.339#CNN#EN#No text#c:\DES_files\Client\J_Summer Cards.ait0%0%0#0#0
+12/01/2015 5:30:14 PM 339#1421044214.339#CNN#EN#No text#c:\DES_files\Client\KB2836939v3_20131021_172525309-Microsoft .NET Framework 4 Extended-MSP1.txt0%0%0#0#0
+12/01/2015 5:30:14 PM 339#1421044214.339#CNN#EN#No text#c:\DES_files\Client\KB2931368_20140515_030056217-Microsoft .NET Framework 4.5.1-MSP0.txt0%0%0#0#0
+12/01/2015 5:30:14 PM 339#1421044214.339#CNN#EN#No text#c:\DES_files\Client\KozGoPr6N-Medium.otf0%0%0#0#0
+12/01/2015 5:30:14 PM 339#1421044214.339#CNN#EN#No text#c:\DES_files\Client\libcpmt.lib0%0%0#0#0
+12/01/2015 5:30:14 PM 355#1421044214.355#CNN#EN#No text#c:\DES_files\Client\libmmd.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 355#1421044214.355#CNN#EN#No text#c:\DES_files\Client\MaxxAudioControl.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 355#1421044214.355#CNN#EN#No text#c:\DES_files\Client\mfc100.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 355#1421044214.355#CNN#EN#No text#c:\DES_files\Client\mfc100u.i386.pdb0%0%0#0#0
+12/01/2015 5:30:14 PM 355#1421044214.355#CNN#EN#No text#c:\DES_files\Client\Microsoft.Build.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 355#1421044214.355#CNN#EN#No text#c:\DES_files\Client\Microsoft.SqlServer.Smo.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 355#1421044214.355#CNN#EN#No text#c:\DES_files\Client\Microsoft.VisualStudio.TeamArchitect.SequenceDesigner.Dsl.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 355#1421044214.355#CNN#EN#No text#c:\DES_files\Client\mingle.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 355#1421044214.355#CNN#EN#No text#c:\DES_files\Client\MJH Will.pdf0%0%0#0#0
+12/01/2015 5:30:14 PM 355#1421044214.355#CNN#EN#No text#c:\DES_files\Client\mscorwks.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 370#1421044214.37#CNN#EN#No text#c:\DES_files\Client\mshtml.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 370#1421044214.37#CNN#EN#No text#c:\DES_files\Client\mshtml.tlb0%0%0#0#0
+12/01/2015 5:30:14 PM 370#1421044214.37#CNN#EN#No text#c:\DES_files\Client\msvcurt.lib0%0%0#0#0
+12/01/2015 5:30:14 PM 370#1421044214.37#CNN#EN#No text#c:\DES_files\Client\mvipdrawmarkers.mexw640%0%0#0#0
+12/01/2015 5:30:14 PM 370#1421044214.37#CNN#EN#No text#c:\DES_files\Client\netbeans-8.0-javase-windows.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 370#1421044214.37#CNN#EN#No text#c:\DES_files\Client\netshell.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 370#1421044214.37#CNN#EN#No text#c:\DES_files\Client\NlsData000d.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 370#1421044214.37#CNN#EN#No text#c:\DES_files\Client\NlsData0010.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 370#1421044214.37#CNN#EN#No text#c:\DES_files\Client\NlsData0011.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 370#1421044214.37#CNN#EN#No text#c:\DES_files\Client\NlsLexicons001d.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 370#1421044214.37#CNN#EN#No text#c:\DES_files\Client\Notification Center (Bg).graphic.png0%0%0#0#0
+12/01/2015 5:30:14 PM 370#1421044214.37#CNN#EN#No text#c:\DES_files\Client\ntoskrnl.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 386#1421044214.386#CNN#EN#No text#c:\DES_files\Client\nvcuvid.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 386#1421044214.386#CNN#EN#No text#c:\DES_files\Client\nvd3dumx.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 386#1421044214.386#CNN#EN#No text#c:\DES_files\Client\nvdisps.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 386#1421044214.386#CNN#EN#No text#c:\DES_files\Client\nvoglv32.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 386#1421044214.386#CNN#EN#No text#c:\DES_files\Client\nvwssr.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 386#1421044214.386#CNN#EN#No text#c:\DES_files\Client\p2057.ngr0%0%0#0#0
+12/01/2015 5:30:14 PM 386#1421044214.386#CNN#EN#No text#c:\DES_files\Client\php_CORE4.xml0%0%0#0#0
+12/01/2015 5:30:14 PM 386#1421044214.386#CNN#EN#No text#c:\DES_files\Client\PresentationFramework.xml0%0%0#0#0
+12/01/2015 5:30:14 PM 386#1421044214.386#CNN#EN#No text#c:\DES_files\Client\rdpcorets.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 386#1421044214.386#CNN#EN#No text#c:\DES_files\Client\ReachFramework.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 386#1421044214.386#CNN#EN#No text#c:\DES_files\Client\ReportViewer.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 386#1421044214.386#CNN#EN#No text#c:\DES_files\Client\sdoBattery_ExperimentData.mat0%0%0#0#0
+12/01/2015 5:30:14 PM 402#1421044214.402#CNN#EN#No text#c:\DES_files\Client\setup-2.9.4503.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 402#1421044214.402#CNN#EN#No text#c:\DES_files\Client\SFLISTLH.dat0%0%0#0#0
+12/01/2015 5:30:14 PM 402#1421044214.402#CNN#EN#No text#c:\DES_files\Client\Shockwave_Installer_Full.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 402#1421044214.402#CNN#EN#No text#c:\DES_files\Client\simsunb.ttf0%0%0#0#0
+12/01/2015 5:30:14 PM 402#1421044214.402#CNN#EN#No text#c:\DES_files\Client\sj4hhybp.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 402#1421044214.402#CNN#EN#No text#c:\DES_files\Client\ssc_core_vcx64.lib0%0%0#0#0
+12/01/2015 5:30:14 PM 402#1421044214.402#CNN#EN#No text#c:\DES_files\Client\svnkit.jar0%0%0#0#0
+12/01/2015 5:30:14 PM 402#1421044214.402#CNN#EN#No text#c:\DES_files\Client\System.Activities.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 402#1421044214.402#CNN#EN#No text#c:\DES_files\Client\System.Activities.Presentation.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 402#1421044214.402#CNN#EN#No text#c:\DES_files\Client\System.Design.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 417#1421044214.417#CNN#EN#No text#c:\DES_files\Client\System.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 417#1421044214.417#CNN#EN#No text#c:\DES_files\Client\System.ServiceModel.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 417#1421044214.417#CNN#EN#No text#c:\DES_files\Client\ta_IN.dic0%0%0#0#0
+12/01/2015 5:30:14 PM 417#1421044214.417#CNN#EN#No text#c:\DES_files\Client\tst.txt0%0%0#0#0
+12/01/2015 5:30:14 PM 417#1421044214.417#CNN#EN#No text#c:\DES_files\Client\tyw.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 417#1421044214.417#CNN#EN#No text#c:\DES_files\Client\VBoxRT.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 417#1421044214.417#CNN#EN#No text#c:\DES_files\Client\VISIO_STD.HXS0%0%0#0#0
+12/01/2015 5:30:14 PM 417#1421044214.417#CNN#EN#No text#c:\DES_files\Client\W32UIImg.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 417#1421044214.417#CNN#EN#No text#c:\DES_files\Client\win32k.sys0%0%0#0#0
+12/01/2015 5:30:14 PM 417#1421044214.417#CNN#EN#No text#c:\DES_files\Client\WINWORD.HXS0%0%0#0#0
+12/01/2015 5:30:14 PM 433#1421044214.433#CNN#EN#No text#c:\DES_files\Client\wordpad.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 433#1421044214.433#CNN#EN#No text#c:\DES_files\Client\wpfgfx_v0300.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 433#1421044214.433#CNN#EN#No text#c:\DES_files\Client\_anmtd_surfaceset-d0e260.gif0%0%0#0#0
+12/01/2015 5:30:14 PM 433#1421044214.433#CNN#EN#No text#c:\DES_files\Client\_anmtd_visibleafter-d0e349.gif0%0%0#0#0
+12/01/2015 5:30:14 PM 433#1421044214.433#CNN#EN#No text#c:\DES_files\Client\_h5.cfs0%0%0#0#0
+12/01/2015 5:30:14 PM 433#1421044214.433#CNN#DE#No text#c:\DES_files\Client\03-11-2007-Arsenal v Manchester United-Manuel Almunia.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 448#1421044214.448#NNC#EN#No text#c:\DES_files\Client\03-11-2007-Arsenal v Manchester United-Manuel Almunia.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 448#1421044214.448#CNN#DE#No text#c:\DES_files\Client\05-04-2008-Arsenal v Liverpool-Martin Skrtel.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 448#1421044214.448#NNC#EN#No text#c:\DES_files\Client\05-04-2008-Arsenal v Liverpool-Martin Skrtel.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 448#1421044214.448#CNN#DE#No text#c:\DES_files\Client\10-01-2009-Arsenal v Bolton Wanderers-Dan Shittu.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 448#1421044214.448#NNC#EN#No text#c:\DES_files\Client\10-01-2009-Arsenal v Bolton Wanderers-Dan Shittu.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 448#1421044214.448#CNN#DE#No text#c:\DES_files\Client\11_CloudBenchmarking.pdf0%0%0#0#0
+12/01/2015 5:30:14 PM 448#1421044214.448#NNC#EN#No text#c:\DES_files\Client\11_CloudBenchmarking.pdf0%0%0#0#0
+12/01/2015 5:30:14 PM 448#1421044214.448#CNN#DE#No text#c:\DES_files\Client\1398534786jtun_emt64nav2k8en140423003.m250%0%0#0#0
+12/01/2015 5:30:14 PM 448#1421044214.448#NNC#EN#No text#c:\DES_files\Client\1398534786jtun_emt64nav2k8en140423003.m250%0%0#0#0
+12/01/2015 5:30:14 PM 448#1421044214.448#CNN#DE#No text#c:\DES_files\Client\1403978587jtun_emt64nav2k8en140626008.m250%0%0#0#0
+12/01/2015 5:30:14 PM 448#1421044214.448#NNC#EN#No text#c:\DES_files\Client\1403978587jtun_emt64nav2k8en140626008.m250%0%0#0#0
+12/01/2015 5:30:14 PM 464#1421044214.464#CNN#DE#No text#c:\DES_files\Client\1406399121jtun_emt64nav2k8en140724017.m250%0%0#0#0
+12/01/2015 5:30:14 PM 464#1421044214.464#NNC#EN#No text#c:\DES_files\Client\1406399121jtun_emt64nav2k8en140724017.m250%0%0#0#0
+12/01/2015 5:30:14 PM 464#1421044214.464#CNN#DE#No text#c:\DES_files\Client\1412613653jtun_emt64nav2k8en141002018.m250%0%0#0#0
+12/01/2015 5:30:14 PM 464#1421044214.464#NNC#EN#No text#c:\DES_files\Client\1412613653jtun_emt64nav2k8en141002018.m250%0%0#0#0
+12/01/2015 5:30:14 PM 464#1421044214.464#CNN#DE#No text#c:\DES_files\Client\1414652875jtun_emt64nav2k8en141029001.m250%0%0#0#0
+12/01/2015 5:30:14 PM 464#1421044214.464#NNC#EN#No text#c:\DES_files\Client\1414652875jtun_emt64nav2k8en141029001.m250%0%0#0#0
+12/01/2015 5:30:14 PM 464#1421044214.464#CNN#DE#No text#c:\DES_files\Client\15-11-2008-Arsenal v Aston Villa-Martin Laursen.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 464#1421044214.464#NNC#EN#No text#c:\DES_files\Client\15-11-2008-Arsenal v Aston Villa-Martin Laursen.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 464#1421044214.464#CNN#DE#No text#c:\DES_files\Client\15-11-2008-Arsenal v Aston Villa-Theo Walcott.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 464#1421044214.464#NNC#EN#No text#c:\DES_files\Client\15-11-2008-Arsenal v Aston Villa-Theo Walcott.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 464#1421044214.464#CNN#DE#No text#c:\DES_files\Client\17677d.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 480#1421044214.48#NNC#EN#No text#c:\DES_files\Client\17677d.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 480#1421044214.48#CNN#DE#No text#c:\DES_files\Client\1767fd.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 480#1421044214.48#NNC#EN#No text#c:\DES_files\Client\1767fd.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 480#1421044214.48#CNN#DE#No text#c:\DES_files\Client\19-04-2008-Arsenal v Reading-Alexander Hleb.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 480#1421044214.48#NNC#EN#No text#c:\DES_files\Client\19-04-2008-Arsenal v Reading-Alexander Hleb.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 480#1421044214.48#CNN#DE#No text#c:\DES_files\Client\19-04-2008-Arsenal v Reading-Jimmy Kebe.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 480#1421044214.48#NNC#EN#No text#c:\DES_files\Client\19-04-2008-Arsenal v Reading-Jimmy Kebe.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 480#1421044214.48#CNN#DE#No text#c:\DES_files\Client\1Password 2012-04-26 120429.agilekeychain_zip0%0%0#0#0
+12/01/2015 5:30:14 PM 480#1421044214.48#NNC#EN#No text#c:\DES_files\Client\1Password 2012-04-26 120429.agilekeychain_zip0%0%0#0#0
+12/01/2015 5:30:14 PM 480#1421044214.48#CNN#DE#No text#c:\DES_files\Client\1Password 2012-05-08 115633.agilekeychain_zip0%0%0#0#0
+12/01/2015 5:30:14 PM 480#1421044214.48#NNC#EN#No text#c:\DES_files\Client\1Password 2012-05-08 115633.agilekeychain_zip0%0%0#0#0
+12/01/2015 5:30:14 PM 495#1421044214.495#CNN#DE#No text#c:\DES_files\Client\24-11-2007-Arsenal v Wigan Athletic- Denilson.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 495#1421044214.495#NNC#EN#No text#c:\DES_files\Client\24-11-2007-Arsenal v Wigan Athletic- Denilson.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 495#1421044214.495#CNN#DE#No text#c:\DES_files\Client\24-11-2007-Arsenal v Wigan Athletic-Emmerson Boyce.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 495#1421044214.495#NNC#EN#No text#c:\DES_files\Client\24-11-2007-Arsenal v Wigan Athletic-Emmerson Boyce.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 495#1421044214.495#CNN#DE#No text#c:\DES_files\Client\29-12-2007-Everton v Arsenal-Tim Howard.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 495#1421044214.495#NNC#EN#No text#c:\DES_files\Client\29-12-2007-Everton v Arsenal-Tim Howard.csv0%0%0#0#0
+12/01/2015 5:30:14 PM 495#1421044214.495#CNN#DE#No text#c:\DES_files\Client\A3DLIBS.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 495#1421044214.495#NNC#EN#No text#c:\DES_files\Client\A3DLIBS.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 495#1421044214.495#CNN#DE#No text#c:\DES_files\Client\abean.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 495#1421044214.495#NNC#EN#No text#c:\DES_files\Client\abean.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 511#1421044214.511#CNN#DE#No text#c:\DES_files\Client\AccLR.cab0%0%0#0#0
+12/01/2015 5:30:14 PM 511#1421044214.511#NNC#EN#No text#c:\DES_files\Client\AccLR.cab0%0%0#0#0
+12/01/2015 5:30:14 PM 511#1421044214.511#CNN#DE#No text#c:\DES_files\Client\Adobe3DAndVideoServer.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 511#1421044214.511#NNC#EN#No text#c:\DES_files\Client\Adobe3DAndVideoServer.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 511#1421044214.511#CNN#DE#No text#c:\DES_files\Client\AdobeHeitiStd-Regular.otf0%0%0#0#0
+12/01/2015 5:30:14 PM 511#1421044214.511#NNC#EN#No text#c:\DES_files\Client\AdobeHeitiStd-Regular.otf0%0%0#0#0
+12/01/2015 5:30:14 PM 511#1421044214.511#CNN#DE#No text#c:\DES_files\Client\AdobePDFMakerX.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 511#1421044214.511#NNC#EN#No text#c:\DES_files\Client\AdobePDFMakerX.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 511#1421044214.511#CNN#DE#No text#c:\DES_files\Client\aflamingo.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 511#1421044214.511#NNC#EN#No text#c:\DES_files\Client\aflamingo.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 511#1421044214.511#CNN#DE#No text#c:\DES_files\Client\AGM.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 511#1421044214.511#NNC#EN#No text#c:\DES_files\Client\AGM.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#CNN#DE#No text#c:\DES_files\Client\amd64_microsoft-windows-d2d_31bf3856ad364e35_7.1.7601.18327_none_f72b7ed6fd7cb38b_d2d1.dll_ef77984b0%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#NNC#EN#No text#c:\DES_files\Client\amd64_microsoft-windows-d2d_31bf3856ad364e35_7.1.7601.18327_none_f72b7ed6fd7cb38b_d2d1.dll_ef77984b0%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#CNN#DE#No text#c:\DES_files\Client\ara131.lex0%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#NNC#EN#No text#c:\DES_files\Client\ara131.lex0%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#CNN#DE#No text#c:\DES_files\Client\arsenal_aston_villa_highlights_1_3.mp40%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#NNC#EN#No text#c:\DES_files\Client\arsenal_aston_villa_highlights_1_3.mp40%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#CNN#DE#No text#c:\DES_files\Client\Artists' Brushes.tpl0%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#NNC#EN#No text#c:\DES_files\Client\Artists' Brushes.tpl0%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#CNN#DE#No text#c:\DES_files\Client\atidxx32.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#NNC#EN#No text#c:\DES_files\Client\atidxx32.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#CNN#DE#No text#c:\DES_files\Client\clbltfnn8.rtl0%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#NNC#EN#No text#c:\DES_files\Client\clbltfnn8.rtl0%0%0#0#0
+12/01/2015 5:30:14 PM 526#1421044214.526#CNN#DE#No text#c:\DES_files\Client\COHCOL.wlt0%0%0#0#0
+12/01/2015 5:30:14 PM 542#1421044214.542#NNC#EN#No text#c:\DES_files\Client\COHCOL.wlt0%0%0#0#0
+12/01/2015 5:30:14 PM 542#1421044214.542#CNN#DE#No text#c:\DES_files\Client\com.ibm.icu_4.4.2.v20110823.jar0%0%0#0#0
+12/01/2015 5:30:14 PM 542#1421044214.542#NNC#EN#No text#c:\DES_files\Client\com.ibm.icu_4.4.2.v20110823.jar0%0%0#0#0
+12/01/2015 5:30:14 PM 542#1421044214.542#CNN#DE#No text#c:\DES_files\Client\Computational Geometry - Algorithms and Applications, 3rd Ed.pdf0%0%0#0#0
+12/01/2015 5:30:14 PM 542#1421044214.542#NNC#EN#No text#c:\DES_files\Client\Computational Geometry - Algorithms and Applications, 3rd Ed.pdf0%0%0#0#0
+12/01/2015 5:30:14 PM 542#1421044214.542#CNN#DE#No text#c:\DES_files\Client\CoolType.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 542#1421044214.542#NNC#EN#No text#c:\DES_files\Client\CoolType.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 542#1421044214.542#CNN#DE#No text#c:\DES_files\Client\crf_experiment_results_2013-11-14-09-29-36.json0%0%0#0#0
+12/01/2015 5:30:14 PM 542#1421044214.542#NNC#EN#No text#c:\DES_files\Client\crf_experiment_results_2013-11-14-09-29-36.json0%0%0#0#0
+12/01/2015 5:30:14 PM 542#1421044214.542#CNN#DE#No text#c:\DES_files\Client\d6158.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 558#1421044214.558#NNC#EN#No text#c:\DES_files\Client\d6158.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 558#1421044214.558#CNN#DE#No text#c:\DES_files\Client\derby.jar0%0%0#0#0
+12/01/2015 5:30:14 PM 558#1421044214.558#NNC#EN#No text#c:\DES_files\Client\derby.jar0%0%0#0#0
+12/01/2015 5:30:14 PM 558#1421044214.558#CNN#DE#No text#c:\DES_files\Client\DynamicDocuments.rpln0%0%0#0#0
+12/01/2015 5:30:14 PM 558#1421044214.558#NNC#EN#No text#c:\DES_files\Client\DynamicDocuments.rpln0%0%0#0#0
+12/01/2015 5:30:14 PM 558#1421044214.558#CNN#DE#No text#c:\DES_files\Client\ehres.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 558#1421044214.558#NNC#EN#No text#c:\DES_files\Client\ehres.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 558#1421044214.558#CNN#DE#No text#c:\DES_files\Client\est133.lex0%0%0#0#0
+12/01/2015 5:30:14 PM 558#1421044214.558#NNC#EN#No text#c:\DES_files\Client\est133.lex0%0%0#0#0
+12/01/2015 5:30:14 PM 558#1421044214.558#CNN#DE#No text#c:\DES_files\Client\F12.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 573#1421044214.573#NNC#EN#No text#c:\DES_files\Client\F12.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 573#1421044214.573#CNN#DE#No text#c:\DES_files\Client\f71340f.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 573#1421044214.573#NNC#EN#No text#c:\DES_files\Client\f71340f.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 573#1421044214.573#CNN#DE#No text#c:\DES_files\Client\FontCache-S-1-5-21-2754216863-145331751-2442532276-1000-12288.dat0%0%0#0#0
+12/01/2015 5:30:14 PM 573#1421044214.573#NNC#EN#No text#c:\DES_files\Client\FontCache-S-1-5-21-2754216863-145331751-2442532276-1000-12288.dat0%0%0#0#0
+12/01/2015 5:30:14 PM 573#1421044214.573#CNN#DE#No text#c:\DES_files\Client\gameux.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 573#1421044214.573#NNC#EN#No text#c:\DES_files\Client\gameux.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 573#1421044214.573#CNN#DE#No text#c:\DES_files\Client\gcrc_v.idx0%0%0#0#0
+12/01/2015 5:30:14 PM 573#1421044214.573#NNC#EN#No text#c:\DES_files\Client\gcrc_v.idx0%0%0#0#0
+12/01/2015 5:30:14 PM 573#1421044214.573#CNN#DE#No text#c:\DES_files\Client\GdiPlus.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 573#1421044214.573#NNC#EN#No text#c:\DES_files\Client\GdiPlus.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 573#1421044214.573#CNN#DE#No text#c:\DES_files\Client\HDRMergeUI.8BF0%0%0#0#0
+12/01/2015 5:30:14 PM 589#1421044214.589#NNC#EN#No text#c:\DES_files\Client\HDRMergeUI.8BF0%0%0#0#0
+12/01/2015 5:30:14 PM 589#1421044214.589#CNN#DE#No text#c:\DES_files\Client\HPFIGLHN.DLL0%0%0#0#0
+12/01/2015 5:30:14 PM 589#1421044214.589#NNC#EN#No text#c:\DES_files\Client\HPFIGLHN.DLL0%0%0#0#0
+12/01/2015 5:30:14 PM 589#1421044214.589#CNN#DE#No text#c:\DES_files\Client\HPVIMG50.DLL0%0%0#0#0
+12/01/2015 5:30:14 PM 589#1421044214.589#NNC#EN#No text#c:\DES_files\Client\HPVIMG50.DLL0%0%0#0#0
+12/01/2015 5:30:14 PM 589#1421044214.589#CNN#DE#No text#c:\DES_files\Client\iclsClientInstaller_x64.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 589#1421044214.589#NNC#EN#No text#c:\DES_files\Client\iclsClientInstaller_x64.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 589#1421044214.589#CNN#DE#No text#c:\DES_files\Client\icudt40.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 604#1421044214.604#NNC#EN#No text#c:\DES_files\Client\icudt40.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 604#1421044214.604#CNN#DE#No text#c:\DES_files\Client\iertutil.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 604#1421044214.604#NNC#EN#No text#c:\DES_files\Client\iertutil.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 604#1421044214.604#CNN#DE#No text#c:\DES_files\Client\ig75icd32.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 604#1421044214.604#NNC#EN#No text#c:\DES_files\Client\ig75icd32.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 604#1421044214.604#CNN#DE#No text#c:\DES_files\Client\igdbcl32.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 604#1421044214.604#NNC#EN#No text#c:\DES_files\Client\igdbcl32.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 604#1421044214.604#CNN#DE#No text#c:\DES_files\Client\igfxcmjit64.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 604#1421044214.604#NNC#EN#No text#c:\DES_files\Client\igfxcmjit64.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 604#1421044214.604#CNN#DE#No text#c:\DES_files\Client\imkrhjd.lex0%0%0#0#0
+12/01/2015 5:30:14 PM 620#1421044214.62#NNC#EN#No text#c:\DES_files\Client\imkrhjd.lex0%0%0#0#0
+12/01/2015 5:30:14 PM 620#1421044214.62#CNN#DE#No text#c:\DES_files\Client\JDFL20.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 620#1421044214.62#NNC#EN#No text#c:\DES_files\Client\JDFL20.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 620#1421044214.62#CNN#DE#No text#c:\DES_files\Client\jfxrt.jar0%0%0#0#0
+12/01/2015 5:30:14 PM 620#1421044214.62#NNC#EN#No text#c:\DES_files\Client\jfxrt.jar0%0%0#0#0
+12/01/2015 5:30:14 PM 620#1421044214.62#CNN#DE#No text#c:\DES_files\Client\Journal.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 620#1421044214.62#NNC#EN#No text#c:\DES_files\Client\Journal.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 620#1421044214.62#CNN#DE#No text#c:\DES_files\Client\J_Summer Cards.ait0%0%0#0#0
+12/01/2015 5:30:14 PM 620#1421044214.62#NNC#EN#No text#c:\DES_files\Client\J_Summer Cards.ait0%0%0#0#0
+12/01/2015 5:30:14 PM 620#1421044214.62#CNN#DE#No text#c:\DES_files\Client\KB2836939v3_20131021_172525309-Microsoft .NET Framework 4 Extended-MSP1.txt0%0%0#0#0
+12/01/2015 5:30:14 PM 620#1421044214.62#NNC#EN#No text#c:\DES_files\Client\KB2836939v3_20131021_172525309-Microsoft .NET Framework 4 Extended-MSP1.txt0%0%0#0#0
+12/01/2015 5:30:14 PM 636#1421044214.636#CNN#DE#No text#c:\DES_files\Client\KB2931368_20140515_030056217-Microsoft .NET Framework 4.5.1-MSP0.txt0%0%0#0#0
+12/01/2015 5:30:14 PM 636#1421044214.636#NNC#EN#No text#c:\DES_files\Client\KB2931368_20140515_030056217-Microsoft .NET Framework 4.5.1-MSP0.txt0%0%0#0#0
+12/01/2015 5:30:14 PM 636#1421044214.636#CNN#DE#No text#c:\DES_files\Client\KozGoPr6N-Medium.otf0%0%0#0#0
+12/01/2015 5:30:14 PM 636#1421044214.636#NNC#EN#No text#c:\DES_files\Client\KozGoPr6N-Medium.otf0%0%0#0#0
+12/01/2015 5:30:14 PM 636#1421044214.636#CNN#DE#No text#c:\DES_files\Client\libcpmt.lib0%0%0#0#0
+12/01/2015 5:30:14 PM 636#1421044214.636#NNC#EN#No text#c:\DES_files\Client\libcpmt.lib0%0%0#0#0
+12/01/2015 5:30:14 PM 636#1421044214.636#CNN#DE#No text#c:\DES_files\Client\libmmd.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 636#1421044214.636#NNC#EN#No text#c:\DES_files\Client\libmmd.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 636#1421044214.636#CNN#DE#No text#c:\DES_files\Client\MaxxAudioControl.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 636#1421044214.636#NNC#EN#No text#c:\DES_files\Client\MaxxAudioControl.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 636#1421044214.636#CNN#DE#No text#c:\DES_files\Client\mfc100.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 651#1421044214.651#NNC#EN#No text#c:\DES_files\Client\mfc100.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 651#1421044214.651#CNN#DE#No text#c:\DES_files\Client\mfc100u.i386.pdb0%0%0#0#0
+12/01/2015 5:30:14 PM 651#1421044214.651#NNC#EN#No text#c:\DES_files\Client\mfc100u.i386.pdb0%0%0#0#0
+12/01/2015 5:30:14 PM 651#1421044214.651#CNN#DE#No text#c:\DES_files\Client\Microsoft.Build.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 792#1421044214.792#NNC#EN#No text#c:\DES_files\Client\Microsoft.Build.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 792#1421044214.792#CNN#DE#No text#c:\DES_files\Client\Microsoft.SqlServer.Smo.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 792#1421044214.792#NNC#EN#No text#c:\DES_files\Client\Microsoft.SqlServer.Smo.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 792#1421044214.792#CNN#DE#No text#c:\DES_files\Client\Microsoft.VisualStudio.TeamArchitect.SequenceDesigner.Dsl.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 792#1421044214.792#NNC#EN#No text#c:\DES_files\Client\Microsoft.VisualStudio.TeamArchitect.SequenceDesigner.Dsl.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 792#1421044214.792#CNN#DE#No text#c:\DES_files\Client\mingle.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 792#1421044214.792#NNC#EN#No text#c:\DES_files\Client\mingle.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 792#1421044214.792#CNN#DE#No text#c:\DES_files\Client\MJH Will.pdf0%0%0#0#0
+12/01/2015 5:30:14 PM 792#1421044214.792#NNC#EN#No text#c:\DES_files\Client\MJH Will.pdf0%0%0#0#0
+12/01/2015 5:30:14 PM 792#1421044214.792#CNN#DE#No text#c:\DES_files\Client\mscorwks.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 792#1421044214.792#NNC#EN#No text#c:\DES_files\Client\mscorwks.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 807#1421044214.807#CNN#DE#No text#c:\DES_files\Client\mshtml.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 807#1421044214.807#NNC#EN#No text#c:\DES_files\Client\mshtml.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 807#1421044214.807#CNN#DE#No text#c:\DES_files\Client\mshtml.tlb0%0%0#0#0
+12/01/2015 5:30:14 PM 807#1421044214.807#NNC#EN#No text#c:\DES_files\Client\mshtml.tlb0%0%0#0#0
+12/01/2015 5:30:14 PM 807#1421044214.807#CNN#DE#No text#c:\DES_files\Client\msvcurt.lib0%0%0#0#0
+12/01/2015 5:30:14 PM 807#1421044214.807#NNC#EN#No text#c:\DES_files\Client\msvcurt.lib0%0%0#0#0
+12/01/2015 5:30:14 PM 807#1421044214.807#CNN#DE#No text#c:\DES_files\Client\mvipdrawmarkers.mexw640%0%0#0#0
+12/01/2015 5:30:14 PM 807#1421044214.807#NNC#EN#No text#c:\DES_files\Client\mvipdrawmarkers.mexw640%0%0#0#0
+12/01/2015 5:30:14 PM 807#1421044214.807#CNN#DE#No text#c:\DES_files\Client\netbeans-8.0-javase-windows.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 807#1421044214.807#NNC#EN#No text#c:\DES_files\Client\netbeans-8.0-javase-windows.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 823#1421044214.823#CNN#DE#No text#c:\DES_files\Client\netshell.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 823#1421044214.823#NNC#EN#No text#c:\DES_files\Client\netshell.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 823#1421044214.823#CNN#DE#No text#c:\DES_files\Client\NlsData000d.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 823#1421044214.823#NNC#EN#No text#c:\DES_files\Client\NlsData000d.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 823#1421044214.823#CNN#DE#No text#c:\DES_files\Client\NlsData0010.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 823#1421044214.823#NNC#EN#No text#c:\DES_files\Client\NlsData0010.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 823#1421044214.823#CNN#DE#No text#c:\DES_files\Client\NlsData0011.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 823#1421044214.823#NNC#EN#No text#c:\DES_files\Client\NlsData0011.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 823#1421044214.823#CNN#DE#No text#c:\DES_files\Client\NlsLexicons001d.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 823#1421044214.823#NNC#EN#No text#c:\DES_files\Client\NlsLexicons001d.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 838#1421044214.838#CNN#DE#No text#c:\DES_files\Client\Notification Center (Bg).graphic.png0%0%0#0#0
+12/01/2015 5:30:14 PM 854#1421044214.854#NNC#EN#No text#c:\DES_files\Client\Notification Center (Bg).graphic.png0%0%0#0#0
+12/01/2015 5:30:14 PM 854#1421044214.854#CNN#DE#No text#c:\DES_files\Client\ntoskrnl.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 854#1421044214.854#NNC#EN#No text#c:\DES_files\Client\ntoskrnl.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 854#1421044214.854#CNN#DE#No text#c:\DES_files\Client\nvcuvid.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 854#1421044214.854#NNC#EN#No text#c:\DES_files\Client\nvcuvid.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 854#1421044214.854#CNN#DE#No text#c:\DES_files\Client\nvd3dumx.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 854#1421044214.854#NNC#EN#No text#c:\DES_files\Client\nvd3dumx.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 854#1421044214.854#CNN#DE#No text#c:\DES_files\Client\nvdisps.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 854#1421044214.854#NNC#EN#No text#c:\DES_files\Client\nvdisps.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 854#1421044214.854#CNN#DE#No text#c:\DES_files\Client\nvoglv32.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 870#1421044214.87#NNC#EN#No text#c:\DES_files\Client\nvoglv32.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 870#1421044214.87#CNN#DE#No text#c:\DES_files\Client\nvwssr.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 870#1421044214.87#NNC#EN#No text#c:\DES_files\Client\nvwssr.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 870#1421044214.87#CNN#DE#No text#c:\DES_files\Client\p2057.ngr0%0%0#0#0
+12/01/2015 5:30:14 PM 870#1421044214.87#NNC#EN#No text#c:\DES_files\Client\p2057.ngr0%0%0#0#0
+12/01/2015 5:30:14 PM 870#1421044214.87#CNN#DE#No text#c:\DES_files\Client\php_CORE4.xml0%0%0#0#0
+12/01/2015 5:30:14 PM 870#1421044214.87#NNC#EN#No text#c:\DES_files\Client\php_CORE4.xml0%0%0#0#0
+12/01/2015 5:30:14 PM 870#1421044214.87#CNN#DE#No text#c:\DES_files\Client\PresentationFramework.xml0%0%0#0#0
+12/01/2015 5:30:14 PM 870#1421044214.87#NNC#EN#No text#c:\DES_files\Client\PresentationFramework.xml0%0%0#0#0
+12/01/2015 5:30:14 PM 885#1421044214.885#CNN#DE#No text#c:\DES_files\Client\rdpcorets.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 885#1421044214.885#NNC#EN#No text#c:\DES_files\Client\rdpcorets.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 885#1421044214.885#CNN#DE#No text#c:\DES_files\Client\ReachFramework.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 885#1421044214.885#NNC#EN#No text#c:\DES_files\Client\ReachFramework.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 885#1421044214.885#CNN#DE#No text#c:\DES_files\Client\ReportViewer.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 885#1421044214.885#NNC#EN#No text#c:\DES_files\Client\ReportViewer.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 885#1421044214.885#CNN#DE#No text#c:\DES_files\Client\sdoBattery_ExperimentData.mat0%0%0#0#0
+12/01/2015 5:30:14 PM 885#1421044214.885#NNC#EN#No text#c:\DES_files\Client\sdoBattery_ExperimentData.mat0%0%0#0#0
+12/01/2015 5:30:14 PM 885#1421044214.885#CNN#DE#No text#c:\DES_files\Client\setup-2.9.4503.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 885#1421044214.885#NNC#EN#No text#c:\DES_files\Client\setup-2.9.4503.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 901#1421044214.901#CNN#DE#No text#c:\DES_files\Client\SFLISTLH.dat0%0%0#0#0
+12/01/2015 5:30:14 PM 901#1421044214.901#NNC#EN#No text#c:\DES_files\Client\SFLISTLH.dat0%0%0#0#0
+12/01/2015 5:30:14 PM 901#1421044214.901#CNN#DE#No text#c:\DES_files\Client\Shockwave_Installer_Full.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 901#1421044214.901#NNC#EN#No text#c:\DES_files\Client\Shockwave_Installer_Full.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 901#1421044214.901#CNN#DE#No text#c:\DES_files\Client\simsunb.ttf0%0%0#0#0
+12/01/2015 5:30:14 PM 901#1421044214.901#NNC#EN#No text#c:\DES_files\Client\simsunb.ttf0%0%0#0#0
+12/01/2015 5:30:14 PM 901#1421044214.901#CNN#DE#No text#c:\DES_files\Client\sj4hhybp.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 901#1421044214.901#NNC#EN#No text#c:\DES_files\Client\sj4hhybp.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 901#1421044214.901#CNN#DE#No text#c:\DES_files\Client\ssc_core_vcx64.lib0%0%0#0#0
+12/01/2015 5:30:14 PM 901#1421044214.901#NNC#EN#No text#c:\DES_files\Client\ssc_core_vcx64.lib0%0%0#0#0
+12/01/2015 5:30:14 PM 901#1421044214.901#CNN#DE#No text#c:\DES_files\Client\svnkit.jar0%0%0#0#0
+12/01/2015 5:30:14 PM 916#1421044214.916#NNC#EN#No text#c:\DES_files\Client\svnkit.jar0%0%0#0#0
+12/01/2015 5:30:14 PM 916#1421044214.916#CNN#DE#No text#c:\DES_files\Client\System.Activities.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 916#1421044214.916#NNC#EN#No text#c:\DES_files\Client\System.Activities.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 916#1421044214.916#CNN#DE#No text#c:\DES_files\Client\System.Activities.Presentation.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 916#1421044214.916#NNC#EN#No text#c:\DES_files\Client\System.Activities.Presentation.ni.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 916#1421044214.916#CNN#DE#No text#c:\DES_files\Client\System.Design.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 916#1421044214.916#NNC#EN#No text#c:\DES_files\Client\System.Design.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 916#1421044214.916#CNN#DE#No text#c:\DES_files\Client\System.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 916#1421044214.916#NNC#EN#No text#c:\DES_files\Client\System.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 916#1421044214.916#CNN#DE#No text#c:\DES_files\Client\System.ServiceModel.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 932#1421044214.932#NNC#EN#No text#c:\DES_files\Client\System.ServiceModel.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 932#1421044214.932#CNN#DE#No text#c:\DES_files\Client\ta_IN.dic0%0%0#0#0
+12/01/2015 5:30:14 PM 932#1421044214.932#NNC#EN#No text#c:\DES_files\Client\ta_IN.dic0%0%0#0#0
+12/01/2015 5:30:14 PM 932#1421044214.932#CNN#DE#No text#c:\DES_files\Client\tst.txt0%0%0#0#0
+12/01/2015 5:30:14 PM 932#1421044214.932#NNC#EN#No text#c:\DES_files\Client\tst.txt0%0%0#0#0
+12/01/2015 5:30:14 PM 932#1421044214.932#CNN#DE#No text#c:\DES_files\Client\tyw.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 932#1421044214.932#NNC#EN#No text#c:\DES_files\Client\tyw.msi0%0%0#0#0
+12/01/2015 5:30:14 PM 932#1421044214.932#CNN#DE#No text#c:\DES_files\Client\VBoxRT.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 948#1421044214.948#NNC#EN#No text#c:\DES_files\Client\VBoxRT.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 948#1421044214.948#CNN#DE#No text#c:\DES_files\Client\VISIO_STD.HXS0%0%0#0#0
+12/01/2015 5:30:14 PM 948#1421044214.948#NNC#EN#No text#c:\DES_files\Client\VISIO_STD.HXS0%0%0#0#0
+12/01/2015 5:30:14 PM 948#1421044214.948#CNN#DE#No text#c:\DES_files\Client\W32UIImg.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 948#1421044214.948#NNC#EN#No text#c:\DES_files\Client\W32UIImg.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 948#1421044214.948#CNN#DE#No text#c:\DES_files\Client\win32k.sys0%0%0#0#0
+12/01/2015 5:30:14 PM 948#1421044214.948#NNC#EN#No text#c:\DES_files\Client\win32k.sys0%0%0#0#0
+12/01/2015 5:30:14 PM 963#1421044214.963#CNN#DE#No text#c:\DES_files\Client\WINWORD.HXS0%0%0#0#0
+12/01/2015 5:30:14 PM 963#1421044214.963#NNC#EN#No text#c:\DES_files\Client\WINWORD.HXS0%0%0#0#0
+12/01/2015 5:30:14 PM 963#1421044214.963#CNN#DE#No text#c:\DES_files\Client\wordpad.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 963#1421044214.963#NNC#EN#No text#c:\DES_files\Client\wordpad.exe0%0%0#0#0
+12/01/2015 5:30:14 PM 963#1421044214.963#CNN#DE#No text#c:\DES_files\Client\wpfgfx_v0300.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 963#1421044214.963#NNC#EN#No text#c:\DES_files\Client\wpfgfx_v0300.dll0%0%0#0#0
+12/01/2015 5:30:14 PM 963#1421044214.963#CNN#DE#No text#c:\DES_files\Client\_anmtd_surfaceset-d0e260.gif0%0%0#0#0
+12/01/2015 5:30:14 PM 963#1421044214.963#NNC#EN#No text#c:\DES_files\Client\_anmtd_surfaceset-d0e260.gif0%0%0#0#0
+12/01/2015 5:30:14 PM 963#1421044214.963#CNN#DE#No text#c:\DES_files\Client\_anmtd_visibleafter-d0e349.gif0%0%0#0#0
+12/01/2015 5:30:14 PM 963#1421044214.963#NNC#EN#No text#c:\DES_files\Client\_anmtd_visibleafter-d0e349.gif0%0%0#0#0
+12/01/2015 5:30:14 PM 979#1421044214.979#CNN#DE#No text#c:\DES_files\Client\_h5.cfs0%0%0#0#0
+12/01/2015 5:30:14 PM 979#1421044214.979#NNC#EN#No text#c:\DES_files\Client\_h5.cfs0%0%0#0#0
+12/01/2015 5:30:14 PM 979#1421044214.979#NNC#DE#No text#c:\DES_files\Client\03-11-2007-Arsenal v Manchester United-Manuel Almunia.csv0%0%0#0#0
+12/01/2015 5:30:15 PM 260#1421044215.26#CDN#EN#No text#c:\DES_files\Client\03-11-2007-Arsenal v Manchester United-Manuel Almunia.csv0%0%0#0#0
+12/01/2015 5:30:15 PM 275#1421044215.275#NNC#DE#No text#c:\DES_files\Client\05-04-2008-Arsenal v Liverpool-Martin Skrtel.csv0%0%0#0#0
+12/01/2015 5:30:15 PM 322#1421044215.322#CDN#EN#No text#c:\DES_files\Client\05-04-2008-Arsenal v Liverpool-Martin Skrtel.csv0%0%0#0#0
+12/01/2015 5:30:15 PM 322#1421044215.322#NNC#DE#No text#c:\DES_files\Client\10-01-2009-Arsenal v Bolton Wanderers-Dan Shittu.csv0%0%0#0#0
+12/01/2015 5:30:15 PM 369#1421044215.369#CDN#EN#No text#c:\DES_files\Client\10-01-2009-Arsenal v Bolton Wanderers-Dan Shittu.csv0%0%0#0#0
+12/01/2015 5:30:15 PM 369#1421044215.369#NNC#DE#No text#c:\DES_files\Client\11_CloudBenchmarking.pdf0%0%0#0#0
+12/01/2015 5:30:15 PM 431#1421044215.431#CDN#EN#No text#c:\DES_files\Client\11_CloudBenchmarking.pdf0%0%0#0#0
+12/01/2015 5:30:15 PM 431#1421044215.431#NNC#DE#No text#c:\DES_files\Client\1398534786jtun_emt64nav2k8en140423003.m250%0%0#0#0
+12/01/2015 5:30:15 PM 494#1421044215.494#CDN#EN#No text#c:\DES_files\Client\1398534786jtun_emt64nav2k8en140423003.m250%0%0#0#0
+12/01/2015 5:30:15 PM 494#1421044215.494#NNC#DE#No text#c:\DES_files\Client\1403978587jtun_emt64nav2k8en140626008.m250%0%0#0#0
+12/01/2015 5:30:15 PM 540#1421044215.54#CDN#EN#No text#c:\DES_files\Client\1403978587jtun_emt64nav2k8en140626008.m250%0%0#0#0
+12/01/2015 5:30:15 PM 540#1421044215.54#NNC#DE#No text#c:\DES_files\Client\1406399121jtun_emt64nav2k8en140724017.m250%0%0#0#0
+12/01/2015 5:30:15 PM 587#1421044215.587#CDN#EN#No text#c:\DES_files\Client\1406399121jtun_emt64nav2k8en140724017.m250%0%0#0#0
+12/01/2015 5:30:15 PM 587#1421044215.587#NNC#DE#No text#c:\DES_files\Client\1412613653jtun_emt64nav2k8en141002018.m250%0%0#0#0
+12/01/2015 5:30:15 PM 634#1421044215.634#CDN#EN#No text#c:\DES_files\Client\1412613653jtun_emt64nav2k8en141002018.m250%0%0#0#0
+12/01/2015 5:30:15 PM 650#1421044215.65#NNC#DE#No text#c:\DES_files\Client\1414652875jtun_emt64nav2k8en141029001.m250%0%0#0#0
+12/01/2015 5:30:15 PM 712#1421044215.712#CDN#EN#No text#c:\DES_files\Client\1414652875jtun_emt64nav2k8en141029001.m250%0%0#0#0
+12/01/2015 5:30:15 PM 712#1421044215.712#NNC#DE#No text#c:\DES_files\Client\15-11-2008-Arsenal v Aston Villa-Martin Laursen.csv0%0%0#0#0
+12/01/2015 5:30:15 PM 759#1421044215.759#CDN#EN#No text#c:\DES_files\Client\15-11-2008-Arsenal v Aston Villa-Martin Laursen.csv0%0%0#0#0
+12/01/2015 5:30:15 PM 759#1421044215.759#NNC#DE#No text#c:\DES_files\Client\15-11-2008-Arsenal v Aston Villa-Theo Walcott.csv0%0%0#0#0
+12/01/2015 5:30:15 PM 821#1421044215.821#CDN#EN#No text#c:\DES_files\Client\15-11-2008-Arsenal v Aston Villa-Theo Walcott.csv0%0%0#0#0
+12/01/2015 5:30:15 PM 821#1421044215.821#NNC#DE#No text#c:\DES_files\Client\17677d.msi0%0%0#0#0
+12/01/2015 5:30:15 PM 868#1421044215.868#CDN#EN#No text#c:\DES_files\Client\17677d.msi0%0%0#0#0
+12/01/2015 5:30:15 PM 868#1421044215.868#NNC#DE#No text#c:\DES_files\Client\1767fd.msi0%0%0#0#0
+12/01/2015 5:30:15 PM 915#1421044215.915#CDN#EN#No text#c:\DES_files\Client\1767fd.msi0%0%0#0#0
+12/01/2015 5:30:15 PM 930#1421044215.93#NNC#DE#No text#c:\DES_files\Client\19-04-2008-Arsenal v Reading-Alexander Hleb.csv0%0%0#0#0
+12/01/2015 5:30:15 PM 962#1421044215.962#CDN#EN#No text#c:\DES_files\Client\19-04-2008-Arsenal v Reading-Alexander Hleb.csv0%0%0#0#0
+12/01/2015 5:30:15 PM 962#1421044215.962#NNC#DE#No text#c:\DES_files\Client\19-04-2008-Arsenal v Reading-Jimmy Kebe.csv0%0%0#0#0
+12/01/2015 5:30:16 PM 8#1421044216.008#CDN#EN#No text#c:\DES_files\Client\19-04-2008-Arsenal v Reading-Jimmy Kebe.csv0%0%0#0#0
+12/01/2015 5:30:16 PM 8#1421044216.008#NNC#DE#No text#c:\DES_files\Client\1Password 2012-04-26 120429.agilekeychain_zip0%0%0#0#0
+12/01/2015 5:30:16 PM 86#1421044216.086#CDN#EN#No text#c:\DES_files\Client\1Password 2012-04-26 120429.agilekeychain_zip0%0%0#0#0
+12/01/2015 5:30:16 PM 86#1421044216.086#NNC#DE#No text#c:\DES_files\Client\1Password 2012-05-08 115633.agilekeychain_zip0%0%0#0#0
+12/01/2015 5:30:16 PM 133#1421044216.133#CDN#EN#No text#c:\DES_files\Client\1Password 2012-05-08 115633.agilekeychain_zip0%0%0#0#0
+12/01/2015 5:30:16 PM 133#1421044216.133#NNC#DE#No text#c:\DES_files\Client\24-11-2007-Arsenal v Wigan Athletic- Denilson.csv0%0%0#0#0
+12/01/2015 5:30:16 PM 180#1421044216.18#CDN#EN#No text#c:\DES_files\Client\24-11-2007-Arsenal v Wigan Athletic- Denilson.csv0%0%0#0#0
+12/01/2015 5:30:16 PM 180#1421044216.18#NNC#DE#No text#c:\DES_files\Client\24-11-2007-Arsenal v Wigan Athletic-Emmerson Boyce.csv0%0%0#0#0
+12/01/2015 5:30:16 PM 227#1421044216.227#CDN#EN#No text#c:\DES_files\Client\24-11-2007-Arsenal v Wigan Athletic-Emmerson Boyce.csv0%0%0#0#0
+12/01/2015 5:30:16 PM 227#1421044216.227#NNC#DE#No text#c:\DES_files\Client\29-12-2007-Everton v Arsenal-Tim Howard.csv0%0%0#0#0
+12/01/2015 5:30:16 PM 274#1421044216.274#CDN#EN#No text#c:\DES_files\Client\29-12-2007-Everton v Arsenal-Tim Howard.csv0%0%0#0#0
+12/01/2015 5:30:16 PM 274#1421044216.274#NNC#DE#No text#c:\DES_files\Client\A3DLIBS.dll0%0%0#0#0
+12/01/2015 5:30:16 PM 352#1421044216.352#CDN#EN#No text#c:\DES_files\Client\A3DLIBS.dll0%0%0#0#0
+12/01/2015 5:30:16 PM 352#1421044216.352#NNC#DE#No text#c:\DES_files\Client\abean.exe0%0%0#0#0
+12/01/2015 5:30:16 PM 523#1421044216.523#CDN#EN#No text#c:\DES_files\Client\abean.exe0%0%0#0#0
+12/01/2015 5:30:16 PM 539#1421044216.539#NNC#DE#No text#c:\DES_files\Client\AccLR.cab0%0%0#0#0
+12/01/2015 5:30:16 PM 601#1421044216.601#CDN#EN#No text#c:\DES_files\Client\AccLR.cab0%0%0#0#0
+12/01/2015 5:30:16 PM 601#1421044216.601#NNC#DE#No text#c:\DES_files\Client\Adobe3DAndVideoServer.exe0%0%0#0#0
+12/01/2015 5:30:16 PM 726#1421044216.726#CDN#EN#No text#c:\DES_files\Client\Adobe3DAndVideoServer.exe0%0%0#0#0
+12/01/2015 5:30:16 PM 726#1421044216.726#NNC#DE#No text#c:\DES_files\Client\AdobeHeitiStd-Regular.otf0%0%0#0#0
+12/01/2015 5:30:16 PM 851#1421044216.851#CDN#EN#No text#c:\DES_files\Client\AdobeHeitiStd-Regular.otf0%0%0#0#0
+12/01/2015 5:30:16 PM 851#1421044216.851#NNC#DE#No text#c:\DES_files\Client\AdobePDFMakerX.dll0%0%0#0#0
+12/01/2015 5:30:16 PM 913#1421044216.913#CDN#EN#No text#c:\DES_files\Client\AdobePDFMakerX.dll0%0%0#0#0
+12/01/2015 5:30:16 PM 913#1421044216.913#NNC#DE#No text#c:\DES_files\Client\aflamingo.dll0%0%0#0#0
+12/01/2015 5:30:16 PM 960#1421044216.96#CDN#EN#No text#c:\DES_files\Client\aflamingo.dll0%0%0#0#0
+12/01/2015 5:30:16 PM 960#1421044216.96#NNC#DE#No text#c:\DES_files\Client\AGM.dll0%0%0#0#0
+12/01/2015 5:30:17 PM 38#1421044217.038#CDN#EN#No text#c:\DES_files\Client\AGM.dll0%0%0#0#0
+12/01/2015 5:30:17 PM 38#1421044217.038#NNC#DE#No text#c:\DES_files\Client\amd64_microsoft-windows-d2d_31bf3856ad364e35_7.1.7601.18327_none_f72b7ed6fd7cb38b_d2d1.dll_ef77984b0%0%0#0#0
+12/01/2015 5:30:17 PM 147#1421044217.147#CDN#EN#No text#c:\DES_files\Client\amd64_microsoft-windows-d2d_31bf3856ad364e35_7.1.7601.18327_none_f72b7ed6fd7cb38b_d2d1.dll_ef77984b0%0%0#0#0
+12/01/2015 5:30:17 PM 147#1421044217.147#NNC#DE#No text#c:\DES_files\Client\ara131.lex0%0%0#0#0
+12/01/2015 5:30:17 PM 194#1421044217.194#CDN#EN#No text#c:\DES_files\Client\ara131.lex0%0%0#0#0
+12/01/2015 5:30:17 PM 210#1421044217.21#NNC#DE#No text#c:\DES_files\Client\arsenal_aston_villa_highlights_1_3.mp40%0%0#0#0
+12/01/2015 5:30:17 PM 303#1421044217.303#CDN#EN#No text#c:\DES_files\Client\arsenal_aston_villa_highlights_1_3.mp40%0%0#0#0
+12/01/2015 5:30:17 PM 303#1421044217.303#NNC#DE#No text#c:\DES_files\Client\Artists' Brushes.tpl0%0%0#0#0
+12/01/2015 5:30:17 PM 350#1421044217.35#CDN#EN#No text#c:\DES_files\Client\Artists' Brushes.tpl0%0%0#0#0
+12/01/2015 5:30:17 PM 350#1421044217.35#NNC#DE#No text#c:\DES_files\Client\atidxx32.dll0%0%0#0#0
+12/01/2015 5:30:17 PM 397#1421044217.397#CDN#EN#No text#c:\DES_files\Client\atidxx32.dll0%0%0#0#0
+12/01/2015 5:30:17 PM 397#1421044217.397#NNC#DE#No text#c:\DES_files\Client\clbltfnn8.rtl0%0%0#0#0
+12/01/2015 5:30:17 PM 584#1421044217.584#CDN#EN#No text#c:\DES_files\Client\clbltfnn8.rtl0%0%0#0#0
+12/01/2015 5:30:17 PM 584#1421044217.584#NNC#DE#No text#c:\DES_files\Client\COHCOL.wlt0%0%0#0#0
+12/01/2015 5:30:17 PM 662#1421044217.662#CDN#EN#No text#c:\DES_files\Client\COHCOL.wlt0%0%0#0#0
+12/01/2015 5:30:17 PM 678#1421044217.678#NNC#DE#No text#c:\DES_files\Client\com.ibm.icu_4.4.2.v20110823.jar0%0%0#0#0
+12/01/2015 5:30:17 PM 740#1421044217.74#CDN#EN#No text#c:\DES_files\Client\com.ibm.icu_4.4.2.v20110823.jar0%0%0#0#0
+12/01/2015 5:30:17 PM 740#1421044217.74#NNC#DE#No text#c:\DES_files\Client\Computational Geometry - Algorithms and Applications, 3rd Ed.pdf0%0%0#0#0
+12/01/2015 5:30:17 PM 818#1421044217.818#CDN#EN#No text#c:\DES_files\Client\Computational Geometry - Algorithms and Applications, 3rd Ed.pdf0%0%0#0#0
+12/01/2015 5:30:17 PM 818#1421044217.818#NNC#DE#No text#c:\DES_files\Client\CoolType.dll0%0%0#0#0
+12/01/2015 5:30:17 PM 943#1421044217.943#CDN#EN#No text#c:\DES_files\Client\CoolType.dll0%0%0#0#0
+12/01/2015 5:30:17 PM 943#1421044217.943#NNC#DE#No text#c:\DES_files\Client\crf_experiment_results_2013-11-14-09-29-36.json0%0%0#0#0
+12/01/2015 5:30:18 PM 52#1421044218.052#CDN#EN#No text#c:\DES_files\Client\crf_experiment_results_2013-11-14-09-29-36.json0%0%0#0#0
+12/01/2015 5:30:18 PM 68#1421044218.068#NNC#DE#No text#c:\DES_files\Client\d6158.msi0%0%0#0#0
+12/01/2015 5:30:18 PM 130#1421044218.13#CDN#EN#No text#c:\DES_files\Client\d6158.msi0%0%0#0#0
+12/01/2015 5:30:18 PM 130#1421044218.13#NNC#DE#No text#c:\DES_files\Client\derby.jar0%0%0#0#0
+12/01/2015 5:30:18 PM 239#1421044218.239#CDN#EN#No text#c:\DES_files\Client\derby.jar0%0%0#0#0
+12/01/2015 5:30:18 PM 239#1421044218.239#NNC#DE#No text#c:\DES_files\Client\DynamicDocuments.rpln0%0%0#0#0
+12/01/2015 5:30:18 PM 302#1421044218.302#CDN#EN#No text#c:\DES_files\Client\DynamicDocuments.rpln0%0%0#0#0
+12/01/2015 5:30:18 PM 302#1421044218.302#NNC#DE#No text#c:\DES_files\Client\ehres.dll0%0%0#0#0
+12/01/2015 5:30:18 PM 364#1421044218.364#CDN#EN#No text#c:\DES_files\Client\ehres.dll0%0%0#0#0
+12/01/2015 5:30:18 PM 364#1421044218.364#NNC#DE#No text#c:\DES_files\Client\est133.lex0%0%0#0#0
+12/01/2015 5:30:18 PM 442#1421044218.442#CDN#EN#No text#c:\DES_files\Client\est133.lex0%0%0#0#0
+12/01/2015 5:30:18 PM 442#1421044218.442#NNC#DE#No text#c:\DES_files\Client\F12.dll0%0%0#0#0
+12/01/2015 5:30:18 PM 504#1421044218.504#CDN#EN#No text#c:\DES_files\Client\F12.dll0%0%0#0#0
+12/01/2015 5:30:18 PM 504#1421044218.504#NNC#DE#No text#c:\DES_files\Client\f71340f.msi0%0%0#0#0
+12/01/2015 5:30:18 PM 598#1421044218.598#CDN#EN#No text#c:\DES_files\Client\f71340f.msi0%0%0#0#0
+12/01/2015 5:30:18 PM 598#1421044218.598#NNC#DE#No text#c:\DES_files\Client\FontCache-S-1-5-21-2754216863-145331751-2442532276-1000-12288.dat0%0%0#0#0
+12/01/2015 5:30:18 PM 660#1421044218.66#CDN#EN#No text#c:\DES_files\Client\FontCache-S-1-5-21-2754216863-145331751-2442532276-1000-12288.dat0%0%0#0#0
+12/01/2015 5:30:18 PM 660#1421044218.66#NNC#DE#No text#c:\DES_files\Client\gameux.dll0%0%0#0#0
+12/01/2015 5:30:18 PM 754#1421044218.754#CDN#EN#No text#c:\DES_files\Client\gameux.dll0%0%0#0#0
+12/01/2015 5:30:18 PM 754#1421044218.754#NNC#DE#No text#c:\DES_files\Client\gcrc_v.idx0%0%0#0#0
+12/01/2015 5:30:18 PM 816#1421044218.816#CDN#EN#No text#c:\DES_files\Client\gcrc_v.idx0%0%0#0#0
+12/01/2015 5:30:18 PM 816#1421044218.816#NNC#DE#No text#c:\DES_files\Client\GdiPlus.dll0%0%0#0#0
+12/01/2015 5:30:18 PM 894#1421044218.894#CDN#EN#No text#c:\DES_files\Client\GdiPlus.dll0%0%0#0#0
+12/01/2015 5:30:18 PM 894#1421044218.894#NNC#DE#No text#c:\DES_files\Client\HDRMergeUI.8BF0%0%0#0#0
+12/01/2015 5:30:18 PM 957#1421044218.957#CDN#EN#No text#c:\DES_files\Client\HDRMergeUI.8BF0%0%0#0#0
+12/01/2015 5:30:18 PM 957#1421044218.957#NNC#DE#No text#c:\DES_files\Client\HPFIGLHN.DLL0%0%0#0#0
+12/01/2015 5:30:19 PM 19#1421044219.019#CDN#EN#No text#c:\DES_files\Client\HPFIGLHN.DLL0%0%0#0#0
+12/01/2015 5:30:19 PM 19#1421044219.019#NNC#DE#No text#c:\DES_files\Client\HPVIMG50.DLL0%0%0#0#0
+12/01/2015 5:30:19 PM 82#1421044219.082#CDN#EN#No text#c:\DES_files\Client\HPVIMG50.DLL0%0%0#0#0
+12/01/2015 5:30:19 PM 82#1421044219.082#NNC#DE#No text#c:\DES_files\Client\iclsClientInstaller_x64.msi0%0%0#0#0
+12/01/2015 5:30:19 PM 144#1421044219.144#CDN#EN#No text#c:\DES_files\Client\iclsClientInstaller_x64.msi0%0%0#0#0
+12/01/2015 5:30:19 PM 144#1421044219.144#NNC#DE#No text#c:\DES_files\Client\icudt40.dll0%0%0#0#0
+12/01/2015 5:30:19 PM 206#1421044219.206#CDN#EN#No text#c:\DES_files\Client\icudt40.dll0%0%0#0#0
+12/01/2015 5:30:19 PM 206#1421044219.206#NNC#DE#No text#c:\DES_files\Client\iertutil.dll0%0%0#0#0
+12/01/2015 5:30:19 PM 269#1421044219.269#CDN#EN#No text#c:\DES_files\Client\iertutil.dll0%0%0#0#0
+12/01/2015 5:30:19 PM 269#1421044219.269#NNC#DE#No text#c:\DES_files\Client\ig75icd32.dll0%0%0#0#0
+12/01/2015 5:30:19 PM 363#1421044219.363#CDN#EN#No text#c:\DES_files\Client\ig75icd32.dll0%0%0#0#0
+12/01/2015 5:30:19 PM 363#1421044219.363#NNC#DE#No text#c:\DES_files\Client\igdbcl32.dll0%0%0#0#0
+12/01/2015 5:30:19 PM 473#1421044219.473#CDN#EN#No text#c:\DES_files\Client\igdbcl32.dll0%0%0#0#0
+12/01/2015 5:30:19 PM 473#1421044219.473#NNC#DE#No text#c:\DES_files\Client\igfxcmjit64.dll0%0%0#0#0
+12/01/2015 5:30:19 PM 644#1421044219.644#CDN#EN#No text#c:\DES_files\Client\igfxcmjit64.dll0%0%0#0#0
+12/01/2015 5:30:19 PM 644#1421044219.644#NNC#DE#No text#c:\DES_files\Client\imkrhjd.lex0%0%0#0#0
+12/01/2015 5:30:19 PM 707#1421044219.707#CDN#EN#No text#c:\DES_files\Client\imkrhjd.lex0%0%0#0#0
+12/01/2015 5:30:19 PM 707#1421044219.707#NNC#DE#No text#c:\DES_files\Client\JDFL20.dll0%0%0#0#0
+12/01/2015 5:30:19 PM 769#1421044219.769#CDN#EN#No text#c:\DES_files\Client\JDFL20.dll0%0%0#0#0
+12/01/2015 5:30:19 PM 769#1421044219.769#NNC#DE#No text#c:\DES_files\Client\jfxrt.jar0%0%0#0#0
+12/01/2015 5:30:19 PM 831#1421044219.831#CDN#EN#No text#c:\DES_files\Client\jfxrt.jar0%0%0#0#0
+12/01/2015 5:30:19 PM 847#1421044219.847#NNC#DE#No text#c:\DES_files\Client\Journal.exe0%0%0#0#0
+12/01/2015 5:30:19 PM 894#1421044219.894#CDN#EN#No text#c:\DES_files\Client\Journal.exe0%0%0#0#0
+12/01/2015 5:30:19 PM 894#1421044219.894#NNC#DE#No text#c:\DES_files\Client\J_Summer Cards.ait0%0%0#0#0
+12/01/2015 5:30:19 PM 956#1421044219.956#CDN#EN#No text#c:\DES_files\Client\J_Summer Cards.ait0%0%0#0#0
+12/01/2015 5:30:19 PM 956#1421044219.956#NNC#DE#No text#c:\DES_files\Client\KB2836939v3_20131021_172525309-Microsoft .NET Framework 4 Extended-MSP1.txt0%0%0#0#0
+12/01/2015 5:30:20 PM 19#1421044220.019#CDN#EN#No text#c:\DES_files\Client\KB2836939v3_20131021_172525309-Microsoft .NET Framework 4 Extended-MSP1.txt0%0%0#0#0
+12/01/2015 5:30:20 PM 19#1421044220.019#NNC#DE#No text#c:\DES_files\Client\KB2931368_20140515_030056217-Microsoft .NET Framework 4.5.1-MSP0.txt0%0%0#0#0
+12/01/2015 5:30:20 PM 81#1421044220.081#CDN#EN#No text#c:\DES_files\Client\KB2931368_20140515_030056217-Microsoft .NET Framework 4.5.1-MSP0.txt0%0%0#0#0
+12/01/2015 5:30:20 PM 81#1421044220.081#NNC#DE#No text#c:\DES_files\Client\KozGoPr6N-Medium.otf0%0%0#0#0
+12/01/2015 5:30:20 PM 143#1421044220.143#CDN#EN#No text#c:\DES_files\Client\KozGoPr6N-Medium.otf0%0%0#0#0
+12/01/2015 5:30:20 PM 143#1421044220.143#NNC#DE#No text#c:\DES_files\Client\libcpmt.lib0%0%0#0#0
+12/01/2015 5:30:20 PM 206#1421044220.206#CDN#EN#No text#c:\DES_files\Client\libcpmt.lib0%0%0#0#0
+12/01/2015 5:30:20 PM 221#1421044220.221#NNC#DE#No text#c:\DES_files\Client\libmmd.dll0%0%0#0#0
+12/01/2015 5:30:20 PM 268#1421044220.268#CDN#EN#No text#c:\DES_files\Client\libmmd.dll0%0%0#0#0
+12/01/2015 5:30:20 PM 268#1421044220.268#NNC#DE#No text#c:\DES_files\Client\MaxxAudioControl.exe0%0%0#0#0
+12/01/2015 5:30:20 PM 346#1421044220.346#CDN#EN#No text#c:\DES_files\Client\MaxxAudioControl.exe0%0%0#0#0
+12/01/2015 5:30:20 PM 346#1421044220.346#NNC#DE#No text#c:\DES_files\Client\mfc100.dll0%0%0#0#0
+12/01/2015 5:30:20 PM 409#1421044220.409#CDN#EN#No text#c:\DES_files\Client\mfc100.dll0%0%0#0#0
+12/01/2015 5:30:20 PM 409#1421044220.409#NNC#DE#No text#c:\DES_files\Client\mfc100u.i386.pdb0%0%0#0#0
+12/01/2015 5:30:20 PM 471#1421044220.471#CDN#EN#No text#c:\DES_files\Client\mfc100u.i386.pdb0%0%0#0#0
+12/01/2015 5:30:20 PM 471#1421044220.471#NNC#DE#No text#c:\DES_files\Client\Microsoft.Build.ni.dll0%0%0#0#0
+12/01/2015 5:30:20 PM 549#1421044220.549#CDN#EN#No text#c:\DES_files\Client\Microsoft.Build.ni.dll0%0%0#0#0
+12/01/2015 5:30:20 PM 549#1421044220.549#NNC#DE#No text#c:\DES_files\Client\Microsoft.SqlServer.Smo.ni.dll0%0%0#0#0
+12/01/2015 5:30:20 PM 627#1421044220.627#CDN#EN#No text#c:\DES_files\Client\Microsoft.SqlServer.Smo.ni.dll0%0%0#0#0
+12/01/2015 5:30:20 PM 627#1421044220.627#NNC#DE#No text#c:\DES_files\Client\Microsoft.VisualStudio.TeamArchitect.SequenceDesigner.Dsl.ni.dll0%0%0#0#0
+12/01/2015 5:30:20 PM 845#1421044220.845#CDN#EN#No text#c:\DES_files\Client\Microsoft.VisualStudio.TeamArchitect.SequenceDesigner.Dsl.ni.dll0%0%0#0#0
+12/01/2015 5:30:20 PM 845#1421044220.845#NNC#DE#No text#c:\DES_files\Client\mingle.msi0%0%0#0#0
+12/01/2015 5:30:20 PM 923#1421044220.923#CDN#EN#No text#c:\DES_files\Client\mingle.msi0%0%0#0#0
+12/01/2015 5:30:20 PM 923#1421044220.923#NNC#DE#No text#c:\DES_files\Client\MJH Will.pdf0%0%0#0#0
+12/01/2015 5:30:21 PM 1#1421044221.001#CDN#EN#No text#c:\DES_files\Client\MJH Will.pdf0%0%0#0#0
+12/01/2015 5:30:21 PM 1#1421044221.001#NNC#DE#No text#c:\DES_files\Client\mscorwks.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 64#1421044221.064#CDN#EN#No text#c:\DES_files\Client\mscorwks.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 64#1421044221.064#NNC#DE#No text#c:\DES_files\Client\mshtml.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 142#1421044221.142#CDN#EN#No text#c:\DES_files\Client\mshtml.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 142#1421044221.142#NNC#DE#No text#c:\DES_files\Client\mshtml.tlb0%0%0#0#0
+12/01/2015 5:30:21 PM 220#1421044221.22#CDN#EN#No text#c:\DES_files\Client\mshtml.tlb0%0%0#0#0
+12/01/2015 5:30:21 PM 220#1421044221.22#NNC#DE#No text#c:\DES_files\Client\msvcurt.lib0%0%0#0#0
+12/01/2015 5:30:21 PM 313#1421044221.313#CDN#EN#No text#c:\DES_files\Client\msvcurt.lib0%0%0#0#0
+12/01/2015 5:30:21 PM 313#1421044221.313#NNC#DE#No text#c:\DES_files\Client\mvipdrawmarkers.mexw640%0%0#0#0
+12/01/2015 5:30:21 PM 391#1421044221.391#CDN#EN#No text#c:\DES_files\Client\mvipdrawmarkers.mexw640%0%0#0#0
+12/01/2015 5:30:21 PM 391#1421044221.391#NNC#DE#No text#c:\DES_files\Client\netbeans-8.0-javase-windows.exe0%0%0#0#0
+12/01/2015 5:30:21 PM 454#1421044221.454#CDN#EN#No text#c:\DES_files\Client\netbeans-8.0-javase-windows.exe0%0%0#0#0
+12/01/2015 5:30:21 PM 454#1421044221.454#NNC#DE#No text#c:\DES_files\Client\netshell.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 532#1421044221.532#CDN#EN#No text#c:\DES_files\Client\netshell.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 532#1421044221.532#NNC#DE#No text#c:\DES_files\Client\NlsData000d.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 641#1421044221.641#CDN#EN#No text#c:\DES_files\Client\NlsData000d.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 641#1421044221.641#NNC#DE#No text#c:\DES_files\Client\NlsData0010.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 813#1421044221.813#CDN#EN#No text#c:\DES_files\Client\NlsData0010.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 813#1421044221.813#NNC#DE#No text#c:\DES_files\Client\NlsData0011.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 875#1421044221.875#CDN#EN#No text#c:\DES_files\Client\NlsData0011.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 891#1421044221.891#NNC#DE#No text#c:\DES_files\Client\NlsLexicons001d.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 953#1421044221.953#CDN#EN#No text#c:\DES_files\Client\NlsLexicons001d.dll0%0%0#0#0
+12/01/2015 5:30:21 PM 953#1421044221.953#NNC#DE#No text#c:\DES_files\Client\Notification Center (Bg).graphic.png0%0%0#0#0
+12/01/2015 5:30:22 PM 171#1421044222.171#CDN#EN#No text#c:\DES_files\Client\Notification Center (Bg).graphic.png0%0%0#0#0
+12/01/2015 5:30:22 PM 171#1421044222.171#NNC#DE#No text#c:\DES_files\Client\ntoskrnl.exe0%0%0#0#0
+12/01/2015 5:30:22 PM 234#1421044222.234#CDN#EN#No text#c:\DES_files\Client\ntoskrnl.exe0%0%0#0#0
+12/01/2015 5:30:22 PM 234#1421044222.234#NNC#DE#No text#c:\DES_files\Client\nvcuvid.dll0%0%0#0#0
+12/01/2015 5:30:22 PM 312#1421044222.312#CDN#EN#No text#c:\DES_files\Client\nvcuvid.dll0%0%0#0#0
+12/01/2015 5:30:22 PM 327#1421044222.327#NNC#DE#No text#c:\DES_files\Client\nvd3dumx.dll0%0%0#0#0
+12/01/2015 5:30:22 PM 405#1421044222.405#CDN#EN#No text#c:\DES_files\Client\nvd3dumx.dll0%0%0#0#0
+12/01/2015 5:30:22 PM 405#1421044222.405#NNC#DE#No text#c:\DES_files\Client\nvdisps.dll0%0%0#0#0
+12/01/2015 5:30:22 PM 608#1421044222.608#CDN#EN#No text#c:\DES_files\Client\nvdisps.dll0%0%0#0#0
+12/01/2015 5:30:22 PM 608#1421044222.608#NNC#DE#No text#c:\DES_files\Client\nvoglv32.dll0%0%0#0#0
+12/01/2015 5:30:22 PM 702#1421044222.702#CDN#EN#No text#c:\DES_files\Client\nvoglv32.dll0%0%0#0#0
+12/01/2015 5:30:22 PM 702#1421044222.702#NNC#DE#No text#c:\DES_files\Client\nvwssr.dll0%0%0#0#0
+12/01/2015 5:30:22 PM 795#1421044222.795#CDN#EN#No text#c:\DES_files\Client\nvwssr.dll0%0%0#0#0
+12/01/2015 5:30:22 PM 795#1421044222.795#NNC#DE#No text#c:\DES_files\Client\p2057.ngr0%0%0#0#0
+12/01/2015 5:30:22 PM 967#1421044222.967#CDN#EN#No text#c:\DES_files\Client\p2057.ngr0%0%0#0#0
+12/01/2015 5:30:22 PM 967#1421044222.967#NNC#DE#No text#c:\DES_files\Client\php_CORE4.xml0%0%0#0#0
+12/01/2015 5:30:23 PM 29#1421044223.029#CDN#EN#No text#c:\DES_files\Client\php_CORE4.xml0%0%0#0#0
+12/01/2015 5:30:23 PM 45#1421044223.045#NNC#DE#No text#c:\DES_files\Client\PresentationFramework.xml0%0%0#0#0
+12/01/2015 5:30:23 PM 263#1421044223.263#CDN#EN#No text#c:\DES_files\Client\PresentationFramework.xml0%0%0#0#0
+12/01/2015 5:30:23 PM 279#1421044223.279#NNC#DE#No text#c:\DES_files\Client\rdpcorets.dll0%0%0#0#0
+12/01/2015 5:30:23 PM 357#1421044223.357#CDN#EN#No text#c:\DES_files\Client\rdpcorets.dll0%0%0#0#0
+12/01/2015 5:30:23 PM 357#1421044223.357#NNC#DE#No text#c:\DES_files\Client\ReachFramework.ni.dll0%0%0#0#0
+12/01/2015 5:30:23 PM 997#1421044223.997#CDN#EN#No text#c:\DES_files\Client\ReachFramework.ni.dll0%0%0#0#0
+12/01/2015 5:30:23 PM 997#1421044223.997#NNC#DE#No text#c:\DES_files\Client\ReportViewer.exe0%0%0#0#0
+12/01/2015 5:30:24 PM 106#1421044224.106#CDN#EN#No text#c:\DES_files\Client\ReportViewer.exe0%0%0#0#0
+12/01/2015 5:30:24 PM 106#1421044224.106#NNC#DE#No text#c:\DES_files\Client\sdoBattery_ExperimentData.mat0%0%0#0#0
+12/01/2015 5:30:24 PM 199#1421044224.199#CDN#EN#No text#c:\DES_files\Client\sdoBattery_ExperimentData.mat0%0%0#0#0
+12/01/2015 5:30:24 PM 199#1421044224.199#NNC#DE#No text#c:\DES_files\Client\setup-2.9.4503.exe0%0%0#0#0
+12/01/2015 5:30:24 PM 418#1421044224.418#CDN#EN#No text#c:\DES_files\Client\setup-2.9.4503.exe0%0%0#0#0
+12/01/2015 5:30:24 PM 418#1421044224.418#NNC#DE#No text#c:\DES_files\Client\SFLISTLH.dat0%0%0#0#0
+12/01/2015 5:30:24 PM 496#1421044224.496#CDN#EN#No text#c:\DES_files\Client\SFLISTLH.dat0%0%0#0#0
+12/01/2015 5:30:24 PM 496#1421044224.496#NNC#DE#No text#c:\DES_files\Client\Shockwave_Installer_Full.exe0%0%0#0#0
+12/01/2015 5:30:24 PM 589#1421044224.589#CDN#EN#No text#c:\DES_files\Client\Shockwave_Installer_Full.exe0%0%0#0#0
+12/01/2015 5:30:24 PM 605#1421044224.605#NNC#DE#No text#c:\DES_files\Client\simsunb.ttf0%0%0#0#0
+12/01/2015 5:30:24 PM 699#1421044224.699#CDN#EN#No text#c:\DES_files\Client\simsunb.ttf0%0%0#0#0
+12/01/2015 5:30:24 PM 699#1421044224.699#NNC#DE#No text#c:\DES_files\Client\sj4hhybp.dll0%0%0#0#0
+12/01/2015 5:30:24 PM 886#1421044224.886#CDN#EN#No text#c:\DES_files\Client\sj4hhybp.dll0%0%0#0#0
+12/01/2015 5:30:24 PM 886#1421044224.886#NNC#DE#No text#c:\DES_files\Client\ssc_core_vcx64.lib0%0%0#0#0
+12/01/2015 5:30:24 PM 948#1421044224.948#CDN#EN#No text#c:\DES_files\Client\ssc_core_vcx64.lib0%0%0#0#0
+12/01/2015 5:30:24 PM 948#1421044224.948#NNC#DE#No text#c:\DES_files\Client\svnkit.jar0%0%0#0#0
+12/01/2015 5:30:25 PM 26#1421044225.026#CDN#EN#No text#c:\DES_files\Client\svnkit.jar0%0%0#0#0
+12/01/2015 5:30:25 PM 26#1421044225.026#NNC#DE#No text#c:\DES_files\Client\System.Activities.ni.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 213#1421044225.213#CDN#EN#No text#c:\DES_files\Client\System.Activities.ni.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 213#1421044225.213#NNC#DE#No text#c:\DES_files\Client\System.Activities.Presentation.ni.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 291#1421044225.291#CDN#EN#No text#c:\DES_files\Client\System.Activities.Presentation.ni.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 291#1421044225.291#NNC#DE#No text#c:\DES_files\Client\System.Design.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 385#1421044225.385#CDN#EN#No text#c:\DES_files\Client\System.Design.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 385#1421044225.385#NNC#DE#No text#c:\DES_files\Client\System.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 463#1421044225.463#CDN#EN#No text#c:\DES_files\Client\System.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 463#1421044225.463#NNC#DE#No text#c:\DES_files\Client\System.ServiceModel.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 525#1421044225.525#CDN#EN#No text#c:\DES_files\Client\System.ServiceModel.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 525#1421044225.525#NNC#DE#No text#c:\DES_files\Client\ta_IN.dic0%0%0#0#0
+12/01/2015 5:30:25 PM 603#1421044225.603#CDN#EN#No text#c:\DES_files\Client\ta_IN.dic0%0%0#0#0
+12/01/2015 5:30:25 PM 603#1421044225.603#NNC#DE#No text#c:\DES_files\Client\tst.txt0%0%0#0#0
+12/01/2015 5:30:25 PM 650#1421044225.65#CDN#EN#No text#c:\DES_files\Client\tst.txt0%0%0#0#0
+12/01/2015 5:30:25 PM 650#1421044225.65#NNC#DE#No text#c:\DES_files\Client\tyw.msi0%0%0#0#0
+12/01/2015 5:30:25 PM 697#1421044225.697#CDN#EN#No text#c:\DES_files\Client\tyw.msi0%0%0#0#0
+12/01/2015 5:30:25 PM 713#1421044225.713#NNC#DE#No text#c:\DES_files\Client\VBoxRT.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 775#1421044225.775#CDN#EN#No text#c:\DES_files\Client\VBoxRT.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 775#1421044225.775#NNC#DE#No text#c:\DES_files\Client\VISIO_STD.HXS0%0%0#0#0
+12/01/2015 5:30:25 PM 837#1421044225.837#CDN#EN#No text#c:\DES_files\Client\VISIO_STD.HXS0%0%0#0#0
+12/01/2015 5:30:25 PM 837#1421044225.837#NNC#DE#No text#c:\DES_files\Client\W32UIImg.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 915#1421044225.915#CDN#EN#No text#c:\DES_files\Client\W32UIImg.dll0%0%0#0#0
+12/01/2015 5:30:25 PM 915#1421044225.915#NNC#DE#No text#c:\DES_files\Client\win32k.sys0%0%0#0#0
+12/01/2015 5:30:25 PM 993#1421044225.993#CDN#EN#No text#c:\DES_files\Client\win32k.sys0%0%0#0#0
+12/01/2015 5:30:26 PM 9#1421044226.009#NNC#DE#No text#c:\DES_files\Client\WINWORD.HXS0%0%0#0#0
+12/01/2015 5:30:26 PM 71#1421044226.071#CDN#EN#No text#c:\DES_files\Client\WINWORD.HXS0%0%0#0#0
+12/01/2015 5:30:26 PM 71#1421044226.071#NNC#DE#No text#c:\DES_files\Client\wordpad.exe0%0%0#0#0
+12/01/2015 5:30:26 PM 134#1421044226.134#CDN#EN#No text#c:\DES_files\Client\wordpad.exe0%0%0#0#0
+12/01/2015 5:30:26 PM 134#1421044226.134#NNC#DE#No text#c:\DES_files\Client\wpfgfx_v0300.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 196#1421044226.196#CDN#EN#No text#c:\DES_files\Client\wpfgfx_v0300.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 196#1421044226.196#NNC#DE#No text#c:\DES_files\Client\_anmtd_surfaceset-d0e260.gif0%0%0#0#0
+12/01/2015 5:30:26 PM 305#1421044226.305#CDN#EN#No text#c:\DES_files\Client\_anmtd_surfaceset-d0e260.gif0%0%0#0#0
+12/01/2015 5:30:26 PM 305#1421044226.305#NNC#DE#No text#c:\DES_files\Client\_anmtd_visibleafter-d0e349.gif0%0%0#0#0
+12/01/2015 5:30:26 PM 368#1421044226.368#CDN#EN#No text#c:\DES_files\Client\_anmtd_visibleafter-d0e349.gif0%0%0#0#0
+12/01/2015 5:30:26 PM 368#1421044226.368#NNC#DE#No text#c:\DES_files\Client\_h5.cfs0%0%0#0#0
+12/01/2015 5:30:26 PM 446#1421044226.446#CDN#EN#No text#c:\DES_files\Client\_h5.cfs0%0%0#0#0
+12/01/2015 5:30:26 PM 446#1421044226.446#CDN#DE#No text#c:\DES_files\Client\03-11-2007-Arsenal v Manchester United-Manuel Almunia.csv0%0%0#0#0
+12/01/2015 5:30:26 PM 446#1421044226.446#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 446#1421044226.446#CDN#DE#No text#c:\DES_files\Client\05-04-2008-Arsenal v Liverpool-Martin Skrtel.csv0%0%0#0#0
+12/01/2015 5:30:26 PM 446#1421044226.446#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 446#1421044226.446#CDN#DE#No text#c:\DES_files\Client\10-01-2009-Arsenal v Bolton Wanderers-Dan Shittu.csv0%0%0#0#0
+12/01/2015 5:30:26 PM 446#1421044226.446#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 461#1421044226.461#CDN#DE#No text#c:\DES_files\Client\11_CloudBenchmarking.pdf0%0%0#0#0
+12/01/2015 5:30:26 PM 461#1421044226.461#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 461#1421044226.461#CDN#DE#No text#c:\DES_files\Client\1398534786jtun_emt64nav2k8en140423003.m250%0%0#0#0
+12/01/2015 5:30:26 PM 461#1421044226.461#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 461#1421044226.461#CDN#DE#No text#c:\DES_files\Client\1403978587jtun_emt64nav2k8en140626008.m250%0%0#0#0
+12/01/2015 5:30:26 PM 461#1421044226.461#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 461#1421044226.461#CDN#DE#No text#c:\DES_files\Client\1406399121jtun_emt64nav2k8en140724017.m250%0%0#0#0
+12/01/2015 5:30:26 PM 461#1421044226.461#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 461#1421044226.461#CDN#DE#No text#c:\DES_files\Client\1412613653jtun_emt64nav2k8en141002018.m250%0%0#0#0
+12/01/2015 5:30:26 PM 461#1421044226.461#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 461#1421044226.461#CDN#DE#No text#c:\DES_files\Client\1414652875jtun_emt64nav2k8en141029001.m250%0%0#0#0
+12/01/2015 5:30:26 PM 477#1421044226.477#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 477#1421044226.477#CDN#DE#No text#c:\DES_files\Client\15-11-2008-Arsenal v Aston Villa-Martin Laursen.csv0%0%0#0#0
+12/01/2015 5:30:26 PM 477#1421044226.477#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 477#1421044226.477#CDN#DE#No text#c:\DES_files\Client\15-11-2008-Arsenal v Aston Villa-Theo Walcott.csv0%0%0#0#0
+12/01/2015 5:30:26 PM 477#1421044226.477#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 477#1421044226.477#CDN#DE#No text#c:\DES_files\Client\17677d.msi0%0%0#0#0
+12/01/2015 5:30:26 PM 477#1421044226.477#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 477#1421044226.477#CDN#DE#No text#c:\DES_files\Client\1767fd.msi0%0%0#0#0
+12/01/2015 5:30:26 PM 477#1421044226.477#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 477#1421044226.477#CDN#DE#No text#c:\DES_files\Client\19-04-2008-Arsenal v Reading-Alexander Hleb.csv0%0%0#0#0
+12/01/2015 5:30:26 PM 477#1421044226.477#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 477#1421044226.477#CDN#DE#No text#c:\DES_files\Client\19-04-2008-Arsenal v Reading-Jimmy Kebe.csv0%0%0#0#0
+12/01/2015 5:30:26 PM 493#1421044226.493#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 493#1421044226.493#CDN#DE#No text#c:\DES_files\Client\1Password 2012-04-26 120429.agilekeychain_zip0%0%0#0#0
+12/01/2015 5:30:26 PM 493#1421044226.493#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 493#1421044226.493#CDN#DE#No text#c:\DES_files\Client\1Password 2012-05-08 115633.agilekeychain_zip0%0%0#0#0
+12/01/2015 5:30:26 PM 493#1421044226.493#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 493#1421044226.493#CDN#DE#No text#c:\DES_files\Client\24-11-2007-Arsenal v Wigan Athletic- Denilson.csv0%0%0#0#0
+12/01/2015 5:30:26 PM 493#1421044226.493#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 493#1421044226.493#CDN#DE#No text#c:\DES_files\Client\24-11-2007-Arsenal v Wigan Athletic-Emmerson Boyce.csv0%0%0#0#0
+12/01/2015 5:30:26 PM 493#1421044226.493#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 493#1421044226.493#CDN#DE#No text#c:\DES_files\Client\29-12-2007-Everton v Arsenal-Tim Howard.csv0%0%0#0#0
+12/01/2015 5:30:26 PM 493#1421044226.493#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 508#1421044226.508#CDN#DE#No text#c:\DES_files\Client\A3DLIBS.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 508#1421044226.508#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 508#1421044226.508#CDN#DE#No text#c:\DES_files\Client\abean.exe0%0%0#0#0
+12/01/2015 5:30:26 PM 508#1421044226.508#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 508#1421044226.508#CDN#DE#No text#c:\DES_files\Client\AccLR.cab0%0%0#0#0
+12/01/2015 5:30:26 PM 508#1421044226.508#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 508#1421044226.508#CDN#DE#No text#c:\DES_files\Client\Adobe3DAndVideoServer.exe0%0%0#0#0
+12/01/2015 5:30:26 PM 508#1421044226.508#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 508#1421044226.508#CDN#DE#No text#c:\DES_files\Client\AdobeHeitiStd-Regular.otf0%0%0#0#0
+12/01/2015 5:30:26 PM 508#1421044226.508#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 508#1421044226.508#CDN#DE#No text#c:\DES_files\Client\AdobePDFMakerX.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 508#1421044226.508#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 524#1421044226.524#CDN#DE#No text#c:\DES_files\Client\aflamingo.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 524#1421044226.524#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 524#1421044226.524#CDN#DE#No text#c:\DES_files\Client\AGM.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 524#1421044226.524#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 524#1421044226.524#CDN#DE#No text#c:\DES_files\Client\amd64_microsoft-windows-d2d_31bf3856ad364e35_7.1.7601.18327_none_f72b7ed6fd7cb38b_d2d1.dll_ef77984b0%0%0#0#0
+12/01/2015 5:30:26 PM 524#1421044226.524#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 524#1421044226.524#CDN#DE#No text#c:\DES_files\Client\ara131.lex0%0%0#0#0
+12/01/2015 5:30:26 PM 524#1421044226.524#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 524#1421044226.524#CDN#DE#No text#c:\DES_files\Client\arsenal_aston_villa_highlights_1_3.mp40%0%0#0#0
+12/01/2015 5:30:26 PM 524#1421044226.524#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 524#1421044226.524#CDN#DE#No text#c:\DES_files\Client\Artists' Brushes.tpl0%0%0#0#0
+12/01/2015 5:30:26 PM 539#1421044226.539#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 539#1421044226.539#CDN#DE#No text#c:\DES_files\Client\atidxx32.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 539#1421044226.539#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 539#1421044226.539#CDN#DE#No text#c:\DES_files\Client\clbltfnn8.rtl0%0%0#0#0
+12/01/2015 5:30:26 PM 539#1421044226.539#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 539#1421044226.539#CDN#DE#No text#c:\DES_files\Client\COHCOL.wlt0%0%0#0#0
+12/01/2015 5:30:26 PM 539#1421044226.539#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 539#1421044226.539#CDN#DE#No text#c:\DES_files\Client\com.ibm.icu_4.4.2.v20110823.jar0%0%0#0#0
+12/01/2015 5:30:26 PM 539#1421044226.539#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 539#1421044226.539#CDN#DE#No text#c:\DES_files\Client\Computational Geometry - Algorithms and Applications, 3rd Ed.pdf0%0%0#0#0
+12/01/2015 5:30:26 PM 539#1421044226.539#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 539#1421044226.539#CDN#DE#No text#c:\DES_files\Client\CoolType.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 555#1421044226.555#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 555#1421044226.555#CDN#DE#No text#c:\DES_files\Client\crf_experiment_results_2013-11-14-09-29-36.json0%0%0#0#0
+12/01/2015 5:30:26 PM 555#1421044226.555#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 555#1421044226.555#CDN#DE#No text#c:\DES_files\Client\d6158.msi0%0%0#0#0
+12/01/2015 5:30:26 PM 555#1421044226.555#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 555#1421044226.555#CDN#DE#No text#c:\DES_files\Client\derby.jar0%0%0#0#0
+12/01/2015 5:30:26 PM 555#1421044226.555#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 555#1421044226.555#CDN#DE#No text#c:\DES_files\Client\DynamicDocuments.rpln0%0%0#0#0
+12/01/2015 5:30:26 PM 555#1421044226.555#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 555#1421044226.555#CDN#DE#No text#c:\DES_files\Client\ehres.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 555#1421044226.555#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 555#1421044226.555#CDN#DE#No text#c:\DES_files\Client\est133.lex0%0%0#0#0
+12/01/2015 5:30:26 PM 571#1421044226.571#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 571#1421044226.571#CDN#DE#No text#c:\DES_files\Client\F12.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 571#1421044226.571#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 571#1421044226.571#CDN#DE#No text#c:\DES_files\Client\f71340f.msi0%0%0#0#0
+12/01/2015 5:30:26 PM 571#1421044226.571#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 571#1421044226.571#CDN#DE#No text#c:\DES_files\Client\FontCache-S-1-5-21-2754216863-145331751-2442532276-1000-12288.dat0%0%0#0#0
+12/01/2015 5:30:26 PM 571#1421044226.571#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 571#1421044226.571#CDN#DE#No text#c:\DES_files\Client\gameux.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 571#1421044226.571#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 571#1421044226.571#CDN#DE#No text#c:\DES_files\Client\gcrc_v.idx0%0%0#0#0
+12/01/2015 5:30:26 PM 586#1421044226.586#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 586#1421044226.586#CDN#DE#No text#c:\DES_files\Client\GdiPlus.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 586#1421044226.586#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 586#1421044226.586#CDN#DE#No text#c:\DES_files\Client\HDRMergeUI.8BF0%0%0#0#0
+12/01/2015 5:30:26 PM 586#1421044226.586#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 586#1421044226.586#CDN#DE#No text#c:\DES_files\Client\HPFIGLHN.DLL0%0%0#0#0
+12/01/2015 5:30:26 PM 586#1421044226.586#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 586#1421044226.586#CDN#DE#No text#c:\DES_files\Client\HPVIMG50.DLL0%0%0#0#0
+12/01/2015 5:30:26 PM 586#1421044226.586#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 602#1421044226.602#CDN#DE#No text#c:\DES_files\Client\iclsClientInstaller_x64.msi0%0%0#0#0
+12/01/2015 5:30:26 PM 602#1421044226.602#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 602#1421044226.602#CDN#DE#No text#c:\DES_files\Client\icudt40.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 602#1421044226.602#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 602#1421044226.602#CDN#DE#No text#c:\DES_files\Client\iertutil.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 602#1421044226.602#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 602#1421044226.602#CDN#DE#No text#c:\DES_files\Client\ig75icd32.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 602#1421044226.602#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 602#1421044226.602#CDN#DE#No text#c:\DES_files\Client\igdbcl32.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 602#1421044226.602#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 617#1421044226.617#CDN#DE#No text#c:\DES_files\Client\igfxcmjit64.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 617#1421044226.617#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 617#1421044226.617#CDN#DE#No text#c:\DES_files\Client\imkrhjd.lex0%0%0#0#0
+12/01/2015 5:30:26 PM 617#1421044226.617#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 617#1421044226.617#CDN#DE#No text#c:\DES_files\Client\JDFL20.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 617#1421044226.617#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 617#1421044226.617#CDN#DE#No text#c:\DES_files\Client\jfxrt.jar0%0%0#0#0
+12/01/2015 5:30:26 PM 617#1421044226.617#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 617#1421044226.617#CDN#DE#No text#c:\DES_files\Client\Journal.exe0%0%0#0#0
+12/01/2015 5:30:26 PM 617#1421044226.617#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 617#1421044226.617#CDN#DE#No text#c:\DES_files\Client\J_Summer Cards.ait0%0%0#0#0
+12/01/2015 5:30:26 PM 633#1421044226.633#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 633#1421044226.633#CDN#DE#No text#c:\DES_files\Client\KB2836939v3_20131021_172525309-Microsoft .NET Framework 4 Extended-MSP1.txt0%0%0#0#0
+12/01/2015 5:30:26 PM 633#1421044226.633#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 633#1421044226.633#CDN#DE#No text#c:\DES_files\Client\KB2931368_20140515_030056217-Microsoft .NET Framework 4.5.1-MSP0.txt0%0%0#0#0
+12/01/2015 5:30:26 PM 633#1421044226.633#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 633#1421044226.633#CDN#DE#No text#c:\DES_files\Client\KozGoPr6N-Medium.otf0%0%0#0#0
+12/01/2015 5:30:26 PM 633#1421044226.633#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 633#1421044226.633#CDN#DE#No text#c:\DES_files\Client\libcpmt.lib0%0%0#0#0
+12/01/2015 5:30:26 PM 633#1421044226.633#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 633#1421044226.633#CDN#DE#No text#c:\DES_files\Client\libmmd.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 633#1421044226.633#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 633#1421044226.633#CDN#DE#No text#c:\DES_files\Client\MaxxAudioControl.exe0%0%0#0#0
+12/01/2015 5:30:26 PM 649#1421044226.649#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 649#1421044226.649#CDN#DE#No text#c:\DES_files\Client\mfc100.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 649#1421044226.649#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 649#1421044226.649#CDN#DE#No text#c:\DES_files\Client\mfc100u.i386.pdb0%0%0#0#0
+12/01/2015 5:30:26 PM 649#1421044226.649#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 649#1421044226.649#CDN#DE#No text#c:\DES_files\Client\Microsoft.Build.ni.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 649#1421044226.649#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 649#1421044226.649#CDN#DE#No text#c:\DES_files\Client\Microsoft.SqlServer.Smo.ni.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 649#1421044226.649#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 664#1421044226.664#CDN#DE#No text#c:\DES_files\Client\Microsoft.VisualStudio.TeamArchitect.SequenceDesigner.Dsl.ni.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 664#1421044226.664#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 664#1421044226.664#CDN#DE#No text#c:\DES_files\Client\mingle.msi0%0%0#0#0
+12/01/2015 5:30:26 PM 664#1421044226.664#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 664#1421044226.664#CDN#DE#No text#c:\DES_files\Client\MJH Will.pdf0%0%0#0#0
+12/01/2015 5:30:26 PM 664#1421044226.664#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 664#1421044226.664#CDN#DE#No text#c:\DES_files\Client\mscorwks.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 664#1421044226.664#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 664#1421044226.664#CDN#DE#No text#c:\DES_files\Client\mshtml.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 664#1421044226.664#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 680#1421044226.68#CDN#DE#No text#c:\DES_files\Client\mshtml.tlb0%0%0#0#0
+12/01/2015 5:30:26 PM 680#1421044226.68#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 680#1421044226.68#CDN#DE#No text#c:\DES_files\Client\msvcurt.lib0%0%0#0#0
+12/01/2015 5:30:26 PM 680#1421044226.68#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 680#1421044226.68#CDN#DE#No text#c:\DES_files\Client\mvipdrawmarkers.mexw640%0%0#0#0
+12/01/2015 5:30:26 PM 680#1421044226.68#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 680#1421044226.68#CDN#DE#No text#c:\DES_files\Client\netbeans-8.0-javase-windows.exe0%0%0#0#0
+12/01/2015 5:30:26 PM 680#1421044226.68#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 680#1421044226.68#CDN#DE#No text#c:\DES_files\Client\netshell.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 695#1421044226.695#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 695#1421044226.695#CDN#DE#No text#c:\DES_files\Client\NlsData000d.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 695#1421044226.695#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 695#1421044226.695#CDN#DE#No text#c:\DES_files\Client\NlsData0010.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 695#1421044226.695#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 695#1421044226.695#CDN#DE#No text#c:\DES_files\Client\NlsData0011.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 695#1421044226.695#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 695#1421044226.695#CDN#DE#No text#c:\DES_files\Client\NlsLexicons001d.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 695#1421044226.695#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 711#1421044226.711#CDN#DE#No text#c:\DES_files\Client\Notification Center (Bg).graphic.png0%0%0#0#0
+12/01/2015 5:30:26 PM 711#1421044226.711#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 711#1421044226.711#CDN#DE#No text#c:\DES_files\Client\ntoskrnl.exe0%0%0#0#0
+12/01/2015 5:30:26 PM 711#1421044226.711#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 711#1421044226.711#CDN#DE#No text#c:\DES_files\Client\nvcuvid.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 711#1421044226.711#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 711#1421044226.711#CDN#DE#No text#c:\DES_files\Client\nvd3dumx.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 711#1421044226.711#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 711#1421044226.711#CDN#DE#No text#c:\DES_files\Client\nvdisps.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 711#1421044226.711#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 711#1421044226.711#CDN#DE#No text#c:\DES_files\Client\nvoglv32.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 727#1421044226.727#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 727#1421044226.727#CDN#DE#No text#c:\DES_files\Client\nvwssr.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 727#1421044226.727#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 727#1421044226.727#CDN#DE#No text#c:\DES_files\Client\p2057.ngr0%0%0#0#0
+12/01/2015 5:30:26 PM 727#1421044226.727#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 727#1421044226.727#CDN#DE#No text#c:\DES_files\Client\php_CORE4.xml0%0%0#0#0
+12/01/2015 5:30:26 PM 727#1421044226.727#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 727#1421044226.727#CDN#DE#No text#c:\DES_files\Client\PresentationFramework.xml0%0%0#0#0
+12/01/2015 5:30:26 PM 727#1421044226.727#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 727#1421044226.727#CDN#DE#No text#c:\DES_files\Client\rdpcorets.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 727#1421044226.727#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 742#1421044226.742#CDN#DE#No text#c:\DES_files\Client\ReachFramework.ni.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 742#1421044226.742#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 742#1421044226.742#CDN#DE#No text#c:\DES_files\Client\ReportViewer.exe0%0%0#0#0
+12/01/2015 5:30:26 PM 742#1421044226.742#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 742#1421044226.742#CDN#DE#No text#c:\DES_files\Client\sdoBattery_ExperimentData.mat0%0%0#0#0
+12/01/2015 5:30:26 PM 742#1421044226.742#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 742#1421044226.742#CDN#DE#No text#c:\DES_files\Client\setup-2.9.4503.exe0%0%0#0#0
+12/01/2015 5:30:26 PM 742#1421044226.742#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 742#1421044226.742#CDN#DE#No text#c:\DES_files\Client\SFLISTLH.dat0%0%0#0#0
+12/01/2015 5:30:26 PM 742#1421044226.742#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 742#1421044226.742#CDN#DE#No text#c:\DES_files\Client\Shockwave_Installer_Full.exe0%0%0#0#0
+12/01/2015 5:30:26 PM 758#1421044226.758#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 758#1421044226.758#CDN#DE#No text#c:\DES_files\Client\simsunb.ttf0%0%0#0#0
+12/01/2015 5:30:26 PM 758#1421044226.758#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 758#1421044226.758#CDN#DE#No text#c:\DES_files\Client\sj4hhybp.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 758#1421044226.758#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 758#1421044226.758#CDN#DE#No text#c:\DES_files\Client\ssc_core_vcx64.lib0%0%0#0#0
+12/01/2015 5:30:26 PM 758#1421044226.758#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 758#1421044226.758#CDN#DE#No text#c:\DES_files\Client\svnkit.jar0%0%0#0#0
+12/01/2015 5:30:26 PM 758#1421044226.758#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 773#1421044226.773#CDN#DE#No text#c:\DES_files\Client\System.Activities.ni.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 773#1421044226.773#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 773#1421044226.773#CDN#DE#No text#c:\DES_files\Client\System.Activities.Presentation.ni.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 773#1421044226.773#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 773#1421044226.773#CDN#DE#No text#c:\DES_files\Client\System.Design.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 773#1421044226.773#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 773#1421044226.773#CDN#DE#No text#c:\DES_files\Client\System.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 773#1421044226.773#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 773#1421044226.773#CDN#DE#No text#c:\DES_files\Client\System.ServiceModel.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 773#1421044226.773#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 773#1421044226.773#CDN#DE#No text#c:\DES_files\Client\ta_IN.dic0%0%0#0#0
+12/01/2015 5:30:26 PM 773#1421044226.773#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 789#1421044226.789#CDN#DE#No text#c:\DES_files\Client\tst.txt0%0%0#0#0
+12/01/2015 5:30:26 PM 789#1421044226.789#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 789#1421044226.789#CDN#DE#No text#c:\DES_files\Client\tyw.msi0%0%0#0#0
+12/01/2015 5:30:26 PM 789#1421044226.789#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 789#1421044226.789#CDN#DE#No text#c:\DES_files\Client\VBoxRT.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 789#1421044226.789#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 789#1421044226.789#CDN#DE#No text#c:\DES_files\Client\VISIO_STD.HXS0%0%0#0#0
+12/01/2015 5:30:26 PM 789#1421044226.789#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 789#1421044226.789#CDN#DE#No text#c:\DES_files\Client\W32UIImg.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 789#1421044226.789#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 789#1421044226.789#CDN#DE#No text#c:\DES_files\Client\win32k.sys0%0%0#0#0
+12/01/2015 5:30:26 PM 805#1421044226.805#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 805#1421044226.805#CDN#DE#No text#c:\DES_files\Client\WINWORD.HXS0%0%0#0#0
+12/01/2015 5:30:26 PM 805#1421044226.805#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 805#1421044226.805#CDN#DE#No text#c:\DES_files\Client\wordpad.exe0%0%0#0#0
+12/01/2015 5:30:26 PM 805#1421044226.805#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 805#1421044226.805#CDN#DE#No text#c:\DES_files\Client\wpfgfx_v0300.dll0%0%0#0#0
+12/01/2015 5:30:26 PM 805#1421044226.805#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 805#1421044226.805#CDN#DE#No text#c:\DES_files\Client\_anmtd_surfaceset-d0e260.gif0%0%0#0#0
+12/01/2015 5:30:26 PM 805#1421044226.805#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 805#1421044226.805#CDN#DE#No text#c:\DES_files\Client\_anmtd_visibleafter-d0e349.gif0%0%0#0#0
+12/01/2015 5:30:26 PM 805#1421044226.805#Name node does not return the correct number of data node lists.
+12/01/2015 5:30:26 PM 805#1421044226.805#CDN#DE#No text#c:\DES_files\Client\_h5.cfs0%0%0#0#0
+12/01/2015 5:30:26 PM 820#1421044226.82#Name node does not return the correct number of data node lists.

@@ -38,3 +38,13 @@ D:\DES\Simulation\bin\Debug\Priority Queue.pdb
 D:\DES\Simulation\obj\Debug\Simulation.csprojResolveAssemblyReference.cache
 D:\DES\Simulation\obj\Debug\Simulation.exe
 D:\DES\Simulation\obj\Debug\Simulation.pdb
+C:\DES\Simulation\bin\Debug\Simulation.exe.config
+C:\DES\Simulation\bin\Debug\Simulation.exe
+C:\DES\Simulation\bin\Debug\Simulation.pdb
+C:\DES\Simulation\bin\Debug\LogService.dll
+C:\DES\Simulation\bin\Debug\Priority Queue.dll
+C:\DES\Simulation\bin\Debug\LogService.pdb
+C:\DES\Simulation\bin\Debug\Priority Queue.pdb
+C:\DES\Simulation\obj\Debug\Simulation.csprojResolveAssemblyReference.cache
+C:\DES\Simulation\obj\Debug\Simulation.exe
+C:\DES\Simulation\obj\Debug\Simulation.pdb

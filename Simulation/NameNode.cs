@@ -196,7 +196,9 @@ namespace Simulation
                             while (SameRack(temp_value1, temp_value2, dn_id)) ;
                         }
                         
+
                         mdim.AddMeta(i, dn_id, 2); //Tertiary replica
+                        mdim.AddMeta(i, 0, 3); // mark as non-duplicate
                         xe2.SetAttribute("TerDatanodeID", dn_id.ToString());
 
 
@@ -206,7 +208,7 @@ namespace Simulation
                 }
                 else // dedup on
                 {
-                    string tarpath = @"C:\DES\PreProcessor\bin\Debug\chunk\";
+                    string tarpath = @"C:\DES_files\chunk_1401\";
 
 
                     string[] file_original_name_arr = filename.Split('\\');
@@ -277,7 +279,7 @@ namespace Simulation
                             }
                             mdim.AddMeta(i, dn_id, 2); //Tertiary replica
                             xe2.SetAttribute("TerDatanodeID", dn_id.ToString());
-
+                            mdim.AddMeta(i, 0, 3); // mark as non-duplicate
                             hashlist.Add(strReadLine); 
                             xe.AppendChild(xe2);
                             continue;
@@ -314,6 +316,7 @@ namespace Simulation
                                             mdim.AddMeta(i, node_no, 2);
                                             xe2.SetAttribute("TerDatanodeID", node_no.ToString());
                                             xe.AppendChild(xe2);
+                                            mdim.AddMeta(i, 1, 3); // mark as duplicate
                                             bDone = true;
 
                                         }
@@ -339,6 +342,7 @@ namespace Simulation
                                             mdim.AddMeta(i, node_no, 2);
                                             xe2.SetAttribute("TerDatanodeID", node_no.ToString());
                                             xe.AppendChild(xe2);
+                                            mdim.AddMeta(i, 1, 3); // mark as duplicate
                                             bDone = true;
                                         }
                                     }
@@ -416,6 +420,7 @@ namespace Simulation
                         mdim.AddMeta(i, dn_id, 2); //Tertiary replica
                         xe2.SetAttribute("TerDatanodeID", dn_id.ToString());
 
+                        mdim.AddMeta(i, 0, 3); // mark as non-duplicate
 
                         xe.AppendChild(xe2);
 
@@ -441,7 +446,7 @@ namespace Simulation
 
                 //Write to the xml persistent as well.
 
-                for (uint ccnt = 0; ccnt < numofreplica; ccnt++)
+                for (uint ccnt = 0; ccnt < numofreplica + 1; ccnt++)
                 {
                     lst.Add(mdim.GetMeta(ccnt)); //Add all replicas
                  }
@@ -529,6 +534,7 @@ namespace Simulation
             private Dictionary<uint,uint> filemeta = new Dictionary<uint,uint>();
             private Dictionary<uint, uint> filemeta_sec = new Dictionary<uint, uint>();
             private Dictionary<uint, uint> filemeta_ter = new Dictionary<uint, uint>();
+            private Dictionary<uint, uint> filemeta_deup = new Dictionary<uint, uint>();
 
 
             public void AddMeta(uint chunkid, uint datanodeid, uint replicaID)
@@ -545,8 +551,14 @@ namespace Simulation
                 {
                     filemeta_ter.Add(chunkid, datanodeid);
                 }
-                else
+                else if (replicaID == 3)
                 { 
+                    //Here the replicaID = 3 is used to mark whether this has been a duplicate
+                    // 0 - not duplicate ; 1 - duplicate
+                    filemeta_deup.Add(chunkid, datanodeid);
+                }
+                else
+                {
                     //Currently no more than three replicas are supported. 
 
                 }
@@ -567,6 +579,10 @@ namespace Simulation
                 else if (replicaID == 2)
                 {
                     return filemeta_ter;
+                }
+                else if (replicaID == 3)
+                {
+                    return filemeta_deup;
                 }
                 else
                 {

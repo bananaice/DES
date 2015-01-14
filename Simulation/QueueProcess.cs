@@ -265,12 +265,14 @@ namespace Simulation
                 //dn.NodeID = i;
                 dn_lst.Add(dn);
                 //And also create the repository directories for data nodes
+                /*
                 string curnodepath = currentpath + "\\DN" + i.ToString();
                 if(Directory.Exists(curnodepath) == false)
                 {
                     Directory.CreateDirectory(curnodepath);
                 }
-
+                */
+                //No need to create data node temp folders for now.
             }
             nn.nn_dn_lst = dn_lst;
         }
