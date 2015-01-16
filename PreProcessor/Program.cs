@@ -442,7 +442,7 @@ namespace PreProcessor
                     CDN_waiting = (double)timestamps_overall[count2] - (double)timestamps_overall[tempuse]; // Unit: seconds
                     arr_cdn_waiting.Add(CDN_waiting);
 
-                    //Capture the last RIO DE event
+                    //Capture the last RIO en event
                     // it minus the CDN DE is the servicing time of dispatching write requests
                     tempuse = count2;
                     count1 = 0;
@@ -450,7 +450,7 @@ namespace PreProcessor
 
                     for (int rio_count = 0; rio_count < RIOList.Count; rio_count++)
                     {
-                        if (RIO_status[rio_count].ToString() == "DE")
+                        if (RIO_status[rio_count].ToString() == "EN")
                         {
                             count1 = rio_count; //Refresh until the latest one.
                         }
@@ -459,6 +459,7 @@ namespace PreProcessor
                     if (tempuse == count1)
                     { continue; }
                     CDN_dispatching = (double)timestamps_RIO[count1] - (double)timestamps_overall[tempuse]; // Unit: seconds
+                    arr_cdn_dispatch.Add(CDN_dispatching);
                     
             }
 
@@ -521,13 +522,13 @@ namespace PreProcessor
                         rio_servicing.Add(RIO_service);
                         //LogService.LogService.WriteLog("RIO servicing counted");
                     }
-                    if ((RIO_taskid[rio_count1].ToString() == RIO_taskid[rio_count2].ToString()) && (RIO_status[rio_count1].ToString() == "DNDQ") && (RIO_status[rio_count2].ToString() == "DNEQ"))
+                    if ((RIO_taskid[rio_count1].ToString() == RIO_taskid[rio_count2].ToString()) && (RIO_status[rio_count1].ToString() == "DNEQ") && (RIO_status[rio_count2].ToString() == "DNDQ"))
                     {
                         double RIO_service = (double)timestamps_RIO[rio_count2] - (double)timestamps_RIO[rio_count1];
                         rio_dn_waiting.Add(RIO_service);
                         //LogService.LogService.WriteLog("RIO servicing counted");
                     }
-                    if ((RIO_taskid[rio_count1].ToString() == RIO_taskid[rio_count2].ToString()) && (RIO_status[rio_count1].ToString() == "SSDW") && (RIO_status[rio_count2].ToString() == "DNDQ"))
+                    if ((RIO_taskid[rio_count1].ToString() == RIO_taskid[rio_count2].ToString()) && (RIO_status[rio_count1].ToString() == "DNDQ") && (RIO_status[rio_count2].ToString() == "SSDW"))
                     {
                         double RIO_service = (double)timestamps_RIO[rio_count2] - (double)timestamps_RIO[rio_count1];
                         rio_ssd_writing.Add(RIO_service);

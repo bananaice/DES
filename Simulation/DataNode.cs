@@ -106,7 +106,14 @@ namespace Simulation
            string logstr = string.Empty;
            logstr += "RIO"; //2 event type
            logstr += "#";
-           logstr += "DNEQ"; // 3 event stage  DNEQ = datanode enqued
+           if (!dnpar.bACK)
+           {
+               logstr += "DNEQ"; // 3 event stage  DNEQ = datanode enqued
+           }
+           else
+           {
+               logstr += "DNEQACK"; // 3 event stage  DNEQ = datanode enqued
+           }
            logstr += "#";
            logstr += "Enqued to data node: " + this.nodeID.ToString(); //4 text
            logstr += "#";
@@ -213,13 +220,20 @@ namespace Simulation
                     bACKOnly = dnpar.bACK;
 
                     //DNDQ - DNEQ = waiting time at each data node. this is node specific.
-
+                    
                     string logstr = string.Empty;
                     logstr += "RIO"; //2 event type
                     logstr += "#";
-                    logstr += "DNDQ"; // 3 event stage  DNDQ = datanode dequed
+                    if (!bACKOnly)
+                    {
+                        logstr += "DNDQ"; // 3 event stage  DNDQ = datanode dequed
+                    }
+                    else
+                    {
+                        logstr += "DNDQACK"; // 3 event stage  DNDQ = datanode dequed
+                    }
                     logstr += "#";
-                    logstr += "Enqued to data node: " + this.nodeID.ToString(); //4 text
+                    logstr += "Dequed to data node: " + this.nodeID.ToString(); //4 text
                     logstr += "#";
                     logstr += source + "%" + replicaID.ToString() + "%" + order.ToString(); //5 task ID - file name + replica ID + chunkID
                     logstr += "#";
@@ -227,6 +241,7 @@ namespace Simulation
                     logstr += "#";
                     logstr += nodeID.ToString(); //7 data node ID
                     LogService.LogService.WriteLog(logstr);
+                     
                 }
                 else
                 {
@@ -344,29 +359,13 @@ namespace Simulation
                 //64KB -> Latency of 2ms
                 //When the data is doubled, make the latency x1.5
 
-                if (!bFlagOnly)  // Request only then do not write.
-                {
-
-                    int chunksize = Int32.Parse(ConfigurationManager.AppSettings["filesize"]);
-                    int times = chunksize / 65536;
-                    double lat_times = times * 0.75; //x1.5 for every doubled size
-                    const int unit_lat = 2;
-                    int act_lat = (int)(unit_lat * lat_times);
-
-                    Thread.Sleep(act_lat);
-                }
-                else
-                { 
-                    //Reference count for this hash value...
-                }
-
-                //After SSD writing is completed
+                /*
                 string logstr = string.Empty;
                 logstr += "RIO"; //2 event type
                 logstr += "#";
-                logstr += "SSDW"; // 3 event stage  SSDW = SSD writing completion
+                logstr += "DNDQ"; // 3 event stage  DNDQ = datanode dequed
                 logstr += "#";
-                logstr += "Enqued to data node: " + this.nodeID.ToString(); //4 text
+                logstr += "Dequed to data node: " + this.nodeID.ToString(); //4 text
                 logstr += "#";
                 logstr += source + "%" + replicaID.ToString() + "%" + order.ToString(); //5 task ID - file name + replica ID + chunkID
                 logstr += "#";
@@ -374,6 +373,79 @@ namespace Simulation
                 logstr += "#";
                 logstr += nodeID.ToString(); //7 data node ID
                 LogService.LogService.WriteLog(logstr);
+                 * 
+                 */
+                if (!bACKOnly)
+                {
+                    if (!bFlagOnly)  // Request only then do not write.
+                    {
+
+                        int chunksize = Int32.Parse(ConfigurationManager.AppSettings["filesize"]);
+                        int times = chunksize / 1048576;
+                        double lat_times = times * 0.75; //x1.5 for every doubled size
+                        const int unit_lat = 1;
+                        int act_lat = (int)(unit_lat * lat_times);
+                        if (act_lat < unit_lat)
+                        {
+                            act_lat = unit_lat;
+                        }
+
+                        Thread.Sleep(act_lat);
+
+                        //After SSD writing is completed
+                        string logstr = string.Empty;
+                        logstr += "RIO"; //2 event type
+                        logstr += "#";
+                        logstr += "SSDW"; // 3 event stage  SSDW = SSD writing completion
+                        logstr += "#";
+                        logstr += "Wrote to the SSD: " + this.nodeID.ToString(); //4 text
+                        logstr += "#";
+                        logstr += source + "%" + replicaID.ToString() + "%" + order.ToString(); //5 task ID - file name + replica ID + chunkID
+                        logstr += "#";
+                        logstr += order.ToString(); //6 chunk ID
+                        logstr += "#";
+                        logstr += nodeID.ToString(); //7 data node ID
+                        LogService.LogService.WriteLog(logstr);
+                    }
+                    else
+                    {   //TODO: Add ref counter.
+                        //Reference count for this hash value...
+
+                        //After SSD writing is completed
+                        string logstr = string.Empty;
+                        logstr += "RIO"; //2 event type
+                        logstr += "#";
+                        logstr += "REF"; // 3 event stage  SSDW = SSD writing completion
+                        logstr += "#";
+                        logstr += "Ref count: " + this.nodeID.ToString(); //4 text
+                        logstr += "#";
+                        logstr += source + "%" + replicaID.ToString() + "%" + order.ToString(); //5 task ID - file name + replica ID + chunkID
+                        logstr += "#";
+                        logstr += order.ToString(); //6 chunk ID
+                        logstr += "#";
+                        logstr += nodeID.ToString(); //7 data node ID
+                        LogService.LogService.WriteLog(logstr);
+                    }
+                }
+                else
+                {
+                    //For ACK only reqs
+                    string logstr = string.Empty;
+                    logstr += "RIO"; //2 event type
+                    logstr += "#";
+                    logstr += "ACK"; // 3 event stage  SSDW = SSD writing completion
+                    logstr += "#";
+                    logstr += "ACK message: " + this.nodeID.ToString(); //4 text
+                    logstr += "#";
+                    logstr += source + "%" + replicaID.ToString() + "%" + order.ToString(); //5 task ID - file name + replica ID + chunkID
+                    logstr += "#";
+                    logstr += order.ToString(); //6 chunk ID
+                    logstr += "#";
+                    logstr += nodeID.ToString(); //7 data node ID
+                    LogService.LogService.WriteLog(logstr);
+                }
+
+                
 
 
                 //This is the code for write IO
@@ -461,8 +533,8 @@ namespace Simulation
                 logstr += source + "%" + replicaID.ToString() + "%" + order.ToString(); //5 task ID - file name + replica ID + chunkID
                 logstr += "#";
                 logstr += chunkid.ToString(); //6 chunk ID
-               logstr += "#";
-               logstr += nodeID.ToString(); //7 data node ID
+                logstr += "#";
+                logstr += nodeID.ToString(); //7 data node ID
                 LogService.LogService.WriteLog(logstr);
 
             }

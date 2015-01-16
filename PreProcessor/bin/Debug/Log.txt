@@ -1,3 +1,25 @@
-9/01/2015 2:55:51 PM 666#1420775751.666#2 hash files are read.
-9/01/2015 2:55:51 PM 668#1420775751.668#Hash value container generated. 158853
-9/01/2015 2:59:48 PM 225#1420775988.225#Number of no dup chunks found in c:\des\dataset0901_chunks2\ is:158853
+16/01/2015 3:56:17 PM 286#1421384177.286#RIO counted: 26731 26731 26731
+16/01/2015 3:56:45 PM 174#1421384205.174#Here are the statistics of previous run:
+CNN waiting mean: 		Max: 		Min: 
+6		6		6
+CNN service mean: 		Max: 		Min: 
+0		0		0
+NNC waiting mean: 		Max: 		Min: 
+26.5714285714286		34		0
+NNC servicing mean: 	Max: 	Min: 
+182		248		16
+CDN waiting mean: 	Max: 	Min: 
+82.8571428571429		266		12
+CDN dispatching mean: 	Max: 	Min: 
+4.57142857142857		14		2
+Mean waiting time RIO:386.200536552649
+Mean servicing time RIO:5750.51517194875
+Max servicing time RIO:9450
+Min servicing time RIO:500
+Mean RIO-DN WAITING:1454.71947935368
+Max RIO-DN WAITING:5178
+Min RIO-DN WAITING:0
+Mean RIO-SSD writing:6.60368043087971
+Max RIO-SSD writing:46
+Min RIO-SSD writing:6
+

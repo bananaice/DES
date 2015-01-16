@@ -26,3 +26,4 @@ C:\DES\Priority Queue\bin\Debug\Priority Queue.dll
 C:\DES\Priority Queue\bin\Debug\Priority Queue.pdb
 C:\DES\Priority Queue\obj\Debug\Priority Queue.dll
 C:\DES\Priority Queue\obj\Debug\Priority Queue.pdb
+C:\DES\Priority Queue\obj\Debug\Priority Queue.csprojResolveAssemblyReference.cache

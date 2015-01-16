@@ -24,3 +24,4 @@ C:\DES\LogService\bin\Debug\LogService.dll
 C:\DES\LogService\bin\Debug\LogService.pdb
 C:\DES\LogService\obj\Debug\LogService.dll
 C:\DES\LogService\obj\Debug\LogService.pdb
+C:\DES\LogService\obj\Debug\LogService.csprojResolveAssemblyReference.cache

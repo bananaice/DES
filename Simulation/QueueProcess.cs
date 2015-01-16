@@ -293,7 +293,7 @@ namespace Simulation
         private uint Order;
         private uint Nodenum;
         private uint Replica;
-        private double priority;
+        //private double priority;
         private int[] Pipeline;
         public Task(string taskID, string taskStage, string filepath, Object obj, uint order, int[] pipeline)
         //public Task(string taskID, string taskStage, string filepath, Object obj, uint order, uint nodenum, uint replica)
@@ -316,6 +316,7 @@ namespace Simulation
                 return TaskID;
             }
         }
+        /*
         public double Priority
         {
             get
@@ -327,6 +328,7 @@ namespace Simulation
                 priority = value;
             }
         }
+         */
         public string TASKSTAGE
         {
             get

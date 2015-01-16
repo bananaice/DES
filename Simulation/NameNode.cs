@@ -18,7 +18,9 @@ namespace Simulation
         private string targetfilepath = null;
         private static int filesize;
         private static string xmlpath = null;
-        private static ArrayList hashlist = new ArrayList();
+        //private static ArrayList hashlist = new ArrayList();
+        //To use sorted list for container of all hash values for dedup use
+        private static SortedList hashlist = new SortedList(); //Being constructed only once.
 
         private static bool bDedup = false;
 
@@ -74,13 +76,7 @@ namespace Simulation
                 bDedup = true;
             }
 
-            //hashlist = new ArrayList();
-            //Read from persisitent file
-
-
-            //Load the hash value files
-            //26/11: Hardcode for testing purpose. TODO: remove the hardcoded path. Add try/catch for IO operation
-           
+                       
 
 
         }
@@ -151,7 +147,7 @@ namespace Simulation
                         
                         if (!bRackEnabled) //Rack turned off
                         {
-                            dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                            dn_id = (uint)rd.Next(0, numofdatanode);
                         }
                         else //Rack enabled
                         { 
@@ -166,7 +162,7 @@ namespace Simulation
 
                         if (!bRackEnabled)
                         {
-                            dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                            dn_id = (uint)rd.Next(0, numofdatanode);
                         }
                         else
                         {
@@ -174,7 +170,7 @@ namespace Simulation
                             temp_value1 = dn_id;
                             do
                             {
-                                dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                                dn_id = (uint)rd.Next(0, numofdatanode);
                             }
                             while(SameRack(temp_value1, dn_id));
                         }
@@ -183,7 +179,7 @@ namespace Simulation
 
                         if (!bRackEnabled)
                         {
-                            dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                            dn_id = (uint)rd.Next(0, numofdatanode);
                         }
                         else
                         {
@@ -191,7 +187,7 @@ namespace Simulation
                             temp_value2 = dn_id;
                             do
                             {
-                                dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                                dn_id = (uint)rd.Next(0, numofdatanode);
                             }
                             while (SameRack(temp_value1, temp_value2, dn_id)) ;
                         }
@@ -229,12 +225,12 @@ namespace Simulation
                         {
                             if (!bRackEnabled) //Rack turned off
                             {
-                                dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                                dn_id = (uint)rd.Next(0, numofdatanode);
                             }
                             else //Rack enabled
                             {
                                 //We do not know where the client comes from so pickup the node randomly anyway
-                                dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                                dn_id = (uint)rd.Next(0, numofdatanode);
                             }
                             mdim.AddMeta(i, dn_id, 0); //Primary copy
                             xe2 = xmldoc.CreateElement("chunkmeta");
@@ -247,7 +243,7 @@ namespace Simulation
 
                             if (!bRackEnabled)
                             {
-                                dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                                dn_id = (uint)rd.Next(0, numofdatanode);
                             }
                             else
                             {
@@ -255,7 +251,7 @@ namespace Simulation
                                 temp_value1 = dn_id;
                                 do
                                 {
-                                    dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                                    dn_id = (uint)rd.Next(0, numofdatanode);
                                 }
                                 while (SameRack(temp_value1, dn_id)) ;
                             }
@@ -265,7 +261,7 @@ namespace Simulation
 
                             if (!bRackEnabled)
                             {
-                                dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                                dn_id = (uint)rd.Next(0, numofdatanode);
                             }
                             else
                             {
@@ -273,25 +269,34 @@ namespace Simulation
                                 temp_value2 = dn_id;
                                 do
                                 {
-                                    dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                                    dn_id = (uint)rd.Next(0, numofdatanode);
                                 }
                                 while (SameRack(temp_value1, temp_value2, dn_id)) ;
                             }
                             mdim.AddMeta(i, dn_id, 2); //Tertiary replica
                             xe2.SetAttribute("TerDatanodeID", dn_id.ToString());
                             mdim.AddMeta(i, 0, 3); // mark as non-duplicate
-                            hashlist.Add(strReadLine); 
+                            hashlist.Add(strReadLine, "1");  //Add the first element into the sorted list
                             xe.AppendChild(xe2);
                             continue;
                         }
-                        ArrayList temparr = (ArrayList)hashlist.Clone();
+                        SortedList temparr = (SortedList)hashlist.Clone();
                         bool bDone = false;
-                        foreach (Object obj in temparr) //Optimise searching as this is sorted...
+                        //foreach (Object obj in temparr) //Optimise searching as this is sorted...
+                        //foreach (KeyValuePair<string,string> kvp in temparr)
+                        for (int hash_cnt = 0; hash_cnt < temparr.Count; hash_cnt++ )
                         {
-
-                            if (obj.ToString() == strReadLine) //Increment existing hash value
+                            int incoming = Convert.ToInt32(strReadLine.Substring(0,3), 16);
+                            int cur_value = Convert.ToInt32(temparr.GetKey(hash_cnt).ToString().Substring(0, 3),16);
+                            if (incoming > cur_value)
                             {
-                                //hashlist.Add(strReadLine, count);
+                                
+                                //No match will be found if incoming is larger than current value in the hash list.
+                                break;
+                            }
+
+                            if (temparr.GetKey(hash_cnt).ToString() == strReadLine) //Increment existing hash value
+                            {
 
                                 //No new xml entry is added. 
                                 //Instead, look up the existing xml file
@@ -301,7 +306,7 @@ namespace Simulation
                                     {
                                         if (subxmlel.GetAttribute("HashVal") == strReadLine)
                                         {
-                                          
+
 
                                             uint node_no = (uint)Int32.Parse(subxmlel.GetAttribute("DatanodeID"));
                                             mdim.AddMeta(i, node_no, 0);
@@ -319,16 +324,19 @@ namespace Simulation
                                             mdim.AddMeta(i, 1, 3); // mark as duplicate
                                             bDone = true;
 
+                                            //TODO
+                                            //Unable to increment the values for the key value pair.
+
                                         }
                                     }
                                 }
                                 //Another case is that if the hash appears once in the same file, the need to iterate the 'xe' that has not been committed to the xml root
                                 foreach (XmlElement subxmlel2 in xe)
                                 {
-                                    if(!bDone)
-                                    { 
+                                    if (!bDone)
+                                    {
                                         if (subxmlel2.GetAttribute("HashVal") == strReadLine)
-                                        { 
+                                        {
                                             uint node_no = (uint)Int32.Parse(subxmlel2.GetAttribute("DatanodeID"));
                                             mdim.AddMeta(i, node_no, 0);
                                             xe2 = xmldoc.CreateElement("chunkmeta");
@@ -347,16 +355,16 @@ namespace Simulation
                                         }
                                     }
                                 }
-                                  
+
                             }
                             else //Add a new entry
                             {
-                               //do nothing
-                                //hashlist.Add(strReadLine);
+                                //do nothing
+
 
                                 //Follow the random way
                             }
-                            
+
 
                         }
 
@@ -367,12 +375,12 @@ namespace Simulation
                         //NO match is found, will add one new hash value
                         if (!bRackEnabled) //Rack turned off
                         {
-                            dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                            dn_id = (uint)rd.Next(0, numofdatanode);
                         }
                         else //Rack enabled
                         {
                             //We do not know where the client comes from so pickup the node randomly anyway
-                            dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                            dn_id = (uint)rd.Next(0, numofdatanode);
                         }
                       
                         mdim.AddMeta(i, dn_id, 0); //Primary copy
@@ -382,12 +390,13 @@ namespace Simulation
                         xe2.SetAttribute("DatanodeID", dn_id.ToString());
 
 
-                        hashlist.Add(strReadLine); 
+                        hashlist.Add(strReadLine, "1"); //Add an entry into the sorted list for this hash value, which is new to the list.
+
                         xe2.SetAttribute("HashVal", strReadLine);  // Write hash value into xml file
 
                         if (!bRackEnabled)
                         {
-                            dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                            dn_id = (uint)rd.Next(0, numofdatanode);
                         }
                         else
                         {
@@ -395,7 +404,7 @@ namespace Simulation
                             temp_value1 = dn_id;
                             do
                             {
-                                dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                                dn_id = (uint)rd.Next(0, numofdatanode);
                             }
                             while (SameRack(temp_value1, dn_id)) ;
                         }
@@ -405,7 +414,7 @@ namespace Simulation
 
                         if (!bRackEnabled)
                         {
-                            dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                            dn_id = (uint)rd.Next(0, numofdatanode);
                         }
                         else
                         {
@@ -413,7 +422,7 @@ namespace Simulation
                             temp_value2 = dn_id;
                             do
                             {
-                                dn_id = (uint)rd.Next(0, numofdatanode - 1);
+                                dn_id = (uint)rd.Next(0, numofdatanode);
                             }
                             while (SameRack(temp_value1, temp_value2, dn_id)) ;
                         }
